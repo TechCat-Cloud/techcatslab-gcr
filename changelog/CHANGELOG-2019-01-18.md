@@ -133,3 +133,27 @@
 - gcr.io/cloud-datalab/datalab:commit-4bf1aa4349c7f1ea1c9a1a203fee052a557d2767
 - gcr.io/cloud-datalab/datalab:commit-4d4467d96c23f1c44e8d9c55438276fbb5b51f81
 - gcr.io/cloud-datalab/datalab:commit-4d53f7813d1f2b171bde2b93e67346668f4e87cc
+### 2019-01-18 23:55:20 Update:
+
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171005_0738_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171005_1338_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171005_1938_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_0138_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_0738_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_1314_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_1338_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_1338_RC01
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_1938_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171006_2228_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171007_0138_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171007_0738_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171007_1338_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171007_1938_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171007_2241_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171008_0138_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171008_0738_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171008_1338_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171008_1938_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171009_0138_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171009_1109_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171009_1338_RC00
