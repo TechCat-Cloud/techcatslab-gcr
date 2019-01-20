@@ -68,3 +68,27 @@
 - gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181007_1758_RC00
 - gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181008_1758_RC00
 - gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181009_1758_RC00
+### 2019-01-20 15:25:37 Update:
+
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171106_0836_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171106_1101_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171024_2129_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171025_0329_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171025_0929_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171025_1529_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171025_2131_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171026_0334_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171026_0934_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171026_1534_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171026_1638_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171026_2134_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171027_0334_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171027_0934_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171027_1534_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171027_2134_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171028_0334_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171028_0934_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171028_1534_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171028_2134_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171029_0334_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171029_0934_RC00
