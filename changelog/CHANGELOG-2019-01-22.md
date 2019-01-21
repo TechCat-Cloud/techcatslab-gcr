@@ -29,3 +29,12 @@
 - gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171210_1015_RC00
 - gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171210_1615_RC00
 - gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171210_2215_RC00
+### 2019-01-22 05:17:15 Update:
+
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181216_0959_RC00
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181217_0959_RC00
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181218_1000_RC00
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181220_1001_RC00
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181221_1329_RC00
+- gcr.io/cloud-datalab/datalab-gpu:commit-97ec387f5bbf4f54dfe5966ffb5ed25f3e27147c
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20181222_1001_RC00
