@@ -183,3 +183,27 @@
 - gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180127_0202_RC00
 - gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180127_0802_RC00
 - gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180127_1402_RC00
+### 2019-01-21 23:23:40 Update:
+
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171206_1015_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171123_1436_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171123_2036_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171124_0236_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171124_0836_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171124_2036_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171125_0236_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171125_0836_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171125_1436_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171125_2036_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171126_0236_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171126_0836_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171126_1436_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171126_2036_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171127_0236_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171127_0836_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171127_1436_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171127_2036_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171128_0236_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171128_0836_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171128_1436_RC00
+- gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171128_2036_RC00
