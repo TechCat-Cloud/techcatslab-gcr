@@ -284,3 +284,26 @@
 - gcr.io/cloud-datalab/datalab-gpu:commit-5736f66d921e2864c285c0020d968cf645bf5d33
 - gcr.io/cloud-datalab/datalab-gpu:commit-589b982122e1f1efc2021efd7f2159487fb22e04
 - gcr.io/cloud-datalab/datalab-gpu:commit-58bec47b394d83eea7d9d6cb555d660d395f1054
+### 2019-01-23 22:28:08 Update:
+
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180128_0202_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180128_0802_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180128_1402_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180128_2002_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180129_0202_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180129_0802_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180129_1402_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180129_2002_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180130_0202_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180130_0802_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180130_1402_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180130_1432_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180130_2002_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180131_0202_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180131_0802_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180131_1000_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180131_1402_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180201_0202_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180201_0802_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180201_1402_RC00
+- gcr.io/cloud-datalab/datalab:cloud_datalab_release_20180201_2002_RC00
