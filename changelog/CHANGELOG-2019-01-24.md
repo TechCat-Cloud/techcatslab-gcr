@@ -237,3 +237,21 @@
 - gcr.io/cloud-datalab/datalab-gateway:commit-014fa192c0f71e0e5363b91e7bdd1340571db8d8
 - gcr.io/cloud-datalab/datalab-gateway:commit-0234276630fae1176cd8bd5932170f5aacb3f23b
 - gcr.io/cloud-datalab/datalab-gateway:commit-023f8cb3301e2d5bfcd395976ab03067a12aebf8
+### 2019-01-24 21:11:16 Update:
+
+- gcr.io/cloud-datalab/datalab:local-20171206
+- gcr.io/cloud-datalab/datalab:local-20171207
+- gcr.io/cloud-datalab/datalab:local-20171208
+- gcr.io/cloud-datalab/datalab:local-20171209
+- gcr.io/cloud-datalab/datalab:local-20171210
+- gcr.io/cloud-datalab/datalab:local-20171211
+- gcr.io/cloud-datalab/datalab:local-20171212
+- gcr.io/cloud-datalab/datalab:local-20171213
+- gcr.io/cloud-datalab/datalab:local-20171214
+- gcr.io/cloud-datalab/datalab:local-20171215
+- gcr.io/cloud-datalab/datalab:local-20171216
+- gcr.io/cloud-datalab/datalab:local-20171217
+- gcr.io/cloud-datalab/datalab:local-20171218
+- gcr.io/cloud-datalab/datalab:local-20171219
+- gcr.io/cloud-datalab/datalab:local-20171220
+- gcr.io/cloud-datalab/datalab:local-20171221
