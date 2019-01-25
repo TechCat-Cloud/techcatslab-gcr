@@ -52,3 +52,13 @@
 - gcr.io/cloud-datalab/datalab-gpu:local-20180123
 - gcr.io/cloud-datalab/datalab-gpu:local-20180124
 - gcr.io/cloud-datalab/datalab-gpu:local-20180125
+### 2019-01-26 04:59:52 Update:
+
+- gcr.io/cloud-datalab/datalab-gpu:local-20180126
+- gcr.io/cloud-datalab/datalab-gpu:local-20180127
+- gcr.io/cloud-datalab/datalab-gpu:local-20180128
+- gcr.io/cloud-datalab/datalab-gpu:local-20180129
+- gcr.io/cloud-datalab/datalab-gpu:local-20180130
+- gcr.io/cloud-datalab/datalab-gpu:local-20180131
+- gcr.io/cloud-datalab/datalab-gpu:local-20180201
+- gcr.io/cloud-datalab/datalab-gpu:local-20180202
