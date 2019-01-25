@@ -327,3 +327,15 @@
 - gcr.io/cloud-datalab/datalab-gateway:latest
 - gcr.io/cloud-datalab/datalab-gateway:latest_test
 - gcr.io/cloud-datalab/datalab-gateway:ml1005
+### 2019-01-25 22:35:14 Update:
+
+- gcr.io/cloud-datalab/datalab-gpu:local-20171101
+- gcr.io/cloud-datalab/datalab-gpu:local-20171102
+- gcr.io/cloud-datalab/datalab-gpu:local-20171103
+- gcr.io/cloud-datalab/datalab-gpu:local-20171104
+- gcr.io/cloud-datalab/datalab-gpu:local-20171105
+- gcr.io/cloud-datalab/datalab-gpu:local-20171106
+- gcr.io/cloud-datalab/datalab-gpu:local-20171107
+- gcr.io/cloud-datalab/datalab-gpu:local-20171108
+- gcr.io/cloud-datalab/datalab-gpu:local-20171109
+- gcr.io/cloud-datalab/datalab-gpu:local-20171110
