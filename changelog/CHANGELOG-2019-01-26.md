@@ -44,3 +44,11 @@
 - gcr.io/cloud-datalab/datalab:cloud_datalab_release_20181017_1800_RC00
 - gcr.io/cloud-datalab/datalab:cloud_datalab_release_20181224_1001_RC00
 - gcr.io/cloud-datalab/datalab:cloud_datalab_release_20181225_1001_RC00
+### 2019-01-26 04:09:10 Update:
+
+- gcr.io/cloud-datalab/datalab-gpu:local-20180108
+- gcr.io/cloud-datalab/datalab-gpu:local-20180109
+- gcr.io/cloud-datalab/datalab-gpu:local-20180122
+- gcr.io/cloud-datalab/datalab-gpu:local-20180123
+- gcr.io/cloud-datalab/datalab-gpu:local-20180124
+- gcr.io/cloud-datalab/datalab-gpu:local-20180125
