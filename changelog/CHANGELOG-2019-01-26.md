@@ -151,3 +151,13 @@
 - gcr.io/cloud-datalab/datalab-gateway:commit-d941a50ed3a21a0d83cac9e34ab2852a9e494f28
 - gcr.io/cloud-datalab/datalab-gateway:commit-d9d245b851ef52dd7adc8648400ee7f62b661767
 - gcr.io/cloud-datalab/datalab-gateway:commit-da6939b3d4cb049853460ba3ecc99ae5ae882758
+### 2019-01-26 12:03:38 Update:
+
+- gcr.io/cloud-datalab/datalab-gpu:cloud_datalab_release_20190125_1535_RC00
+- gcr.io/cloud-datalab/datalab-gpu:commit-3aea7bf6f9470bade2d972c7df522ff194833d0e
+- gcr.io/cloud-datalab/datalab-gpu:commit-3b884dd95dfea8918e041437ff5ad3a84bf29435
+- gcr.io/cloud-datalab/datalab-gpu:commit-3b90ab5062938f29dc43ddaaa7ce0100b92950f8
+- gcr.io/cloud-datalab/datalab-gpu:commit-3bbd830d27eabefdc562048d93b187e12e9dd24e
+- gcr.io/cloud-datalab/datalab-gpu:commit-425f905c8a1005e95883bb09ef9515191ad1d95f
+- gcr.io/cloud-datalab/datalab-gpu:commit-428e27111458d77dabe6f9209308d226185e06f6
+- gcr.io/cloud-datalab/datalab-gpu:commit-43615e5c2971415d7e1be61dc0c7c89fab2bf36a
