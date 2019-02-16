@@ -167,3 +167,28 @@
 - gcr.io/google-containers/hyperkube-amd64:v1.6.12-beta.0
 - gcr.io/google-containers/hyperkube-amd64:v1.6.2
 - gcr.io/google-containers/hyperkube-amd64:v1.6.11
+### 2019-02-17 00:12:58 Update:
+
+- gcr.io/google-containers/hyperkube-amd64:v1.6.11
+- gcr.io/google-containers/hyperkube-amd64:v1.6.11-beta.0
+- gcr.io/google-containers/hyperkube-arm:v1.12.6-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.6.13
+- gcr.io/google-containers/hyperkube-amd64:v1.6.2
+- gcr.io/google-containers/hyperkube-amd64:v1.6.14-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.6.12-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.6.2-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.6.13-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.6.12
+- gcr.io/google-containers/hyperkube-amd64:v1.6.3
+- gcr.io/google-containers/hyperkube-amd64:v1.6.3-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.6.3-beta.1
+- gcr.io/google-containers/hyperkube-amd64:v1.9.3
+- gcr.io/google-containers/hyperkube-amd64:v1.9.2-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.9.3-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.9.4
+- gcr.io/google-containers/hyperkube-amd64:v1.6.4
+- gcr.io/google-containers/hyperkube-amd64:v1.9.4-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.9.5
+- gcr.io/google-containers/hyperkube-amd64:v1.9.5-beta.0
+- gcr.io/google-containers/hyperkube-amd64:v1.9.6
+- gcr.io/google-containers/hyperkube-amd64:v1.9.6-beta.0
