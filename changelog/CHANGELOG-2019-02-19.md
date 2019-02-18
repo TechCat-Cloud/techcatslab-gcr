@@ -126,3 +126,6 @@
 - gcr.io/kubeflow-images-public/katib-frontend:v0.2.0
 - gcr.io/kubeflow-images-public/kubeflow-codelab-notebook:v20180808-v0.2-22-gcfdcb12
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-3a29c8b-1112
+### 2019-02-19 05:07:31 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.3.1
