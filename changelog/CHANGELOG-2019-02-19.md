@@ -103,3 +103,26 @@
 - gcr.io/kubeflow-images-public/pytorch-operator:v20180813-cbc1c068
 - gcr.io/kubeflow-images-public/pytorch-operator:v20180813-f15fdd3f
 - gcr.io/kubeflow-images-public/pytorch-operator:v20180809-9eeb9e65
+### 2019-02-19 03:06:34 Update:
+
+- gcr.io/kubeflow-images-public/issue-summarization-ui-test:v4
+- gcr.io/kubeflow-images-public/issue-summarization-ui-test:v3
+- gcr.io/kubeflow-images-public/issue-summarization-ui-test:v2
+- gcr.io/kubeflow-images-public/jupyterhub-k8s:1.0.2
+- gcr.io/kubeflow-images-public/jupyterhub-k8s:v20181218-8468ca1c-dirty-269c6c
+- gcr.io/kubeflow-images-public/issue-summarization-seldon:20180312
+- gcr.io/kubeflow-images-public/kflogin-ui:v20190118-4be0a70-dirty-20d517
+- gcr.io/kubeflow-images-public/kflogin-ui:test012204
+- gcr.io/kubeflow-images-public/kflogin-ui:test012205
+- gcr.io/kubeflow-images-public/kflogin-ui:v20190123-v0.4.0-rc.1-73-g38ad5f77
+- gcr.io/kubeflow-images-public/jupyter-prepull:latest
+- gcr.io/kubeflow-images-public/bootstrapper-builder:v20180822-a8c4a2e
+- gcr.io/kubeflow-images-public/bootstrapper-builder:v20180919-36547f2
+- gcr.io/kubeflow-images-public/katib-suggestion-grid:v0.2.0
+- gcr.io/kubeflow-images-public/kubeflow-codelab-notebook:latest
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-48d0152-1081
+- gcr.io/kubeflow-images-public/kubeflow-codelab-notebook:v20180803-1745
+- gcr.io/kubeflow-images-public/kubeflow-codelab-notebook:v20180806-v0.2-19-gf6f1e7c
+- gcr.io/kubeflow-images-public/katib-frontend:v0.2.0
+- gcr.io/kubeflow-images-public/kubeflow-codelab-notebook:v20180808-v0.2-22-gcfdcb12
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-3a29c8b-1112
