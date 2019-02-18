@@ -1541,3 +1541,13 @@
 - gcr.io/istio-release/proxy_debug:rkpagadala-test5
 - gcr.io/istio-release/proxy_debug:rkpagadala-test7
 - gcr.io/istio-release/proxyv2:release-1.0-20190218-09-16
+### 2019-02-18 19:49:59 Update:
+
+- gcr.io/istio-release/sidecar_injector:release-1.0-20190218-09-16
+- gcr.io/istio-release/servicegraph:release-1.0-20190218-09-16
+- gcr.io/istio-release/servicegraph_debug:release-1.0-20190218-09-16
+- gcr.io/istio-release/test_policybackend:release-1.0-20190218-09-16
+- gcr.io/istio-release/proxy_debug:rkpagadala-test50
+- gcr.io/istio-release/proxy_debug:rkpagadala-test7
+- gcr.io/istio-release/proxyv2:release-1.0-20190218-09-16
+- gcr.io/istio-release/proxy_debug:rkpagadala-test5
