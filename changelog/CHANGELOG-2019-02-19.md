@@ -129,3 +129,13 @@
 ### 2019-02-19 05:07:31 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v0.3.1
+### 2019-02-19 05:21:41 Update:
+
+- gcr.io/istio-release/mixer_codegen:master-20181205-09-15
+- gcr.io/istio-release/mixer_codegen:hklai-master-20181211-09-15
+- gcr.io/istio-release/mixer_codegen:hklai-master-20181212-19-15
+- gcr.io/istio-release/mixer_codegen:release-1.1-20181207-09-15
+- gcr.io/istio-release/mixer_codegen:krishna-test-latest-daily
+- gcr.io/istio-release/mixer_codegen:krishna-test-20181206-09-15
+- gcr.io/istio-release/mixer_codegen:krishna-test-20181204-09-15
+- gcr.io/istio-release/mixer_codegen:krishna-test-20181205-09-15
