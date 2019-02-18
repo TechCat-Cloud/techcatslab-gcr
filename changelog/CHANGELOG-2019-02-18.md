@@ -1551,3 +1551,6 @@
 - gcr.io/istio-release/proxy_debug:rkpagadala-test7
 - gcr.io/istio-release/proxyv2:release-1.0-20190218-09-16
 - gcr.io/istio-release/proxy_debug:rkpagadala-test5
+### 2019-02-18 20:46:05 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.4.2
