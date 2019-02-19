@@ -139,3 +139,9 @@
 - gcr.io/istio-release/mixer_codegen:krishna-test-20181206-09-15
 - gcr.io/istio-release/mixer_codegen:krishna-test-20181204-09-15
 - gcr.io/istio-release/mixer_codegen:krishna-test-20181205-09-15
+### 2019-02-19 11:50:55 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180717-6f246896
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180806-145fac43
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180715-a9b4aa87
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180716-0fb9cdae
