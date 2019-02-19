@@ -145,3 +145,36 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180806-145fac43
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180715-a9b4aa87
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180716-0fb9cdae
+### 2019-02-19 18:01:42 Update:
+
+- gcr.io/istio-release/citadel:release-1.0-20190219-09-16
+- gcr.io/istio-release/citadel:release-1.1-20190219-09-16
+- gcr.io/istio-release/proxy_init:release-1.1-20190219-09-16
+- gcr.io/istio-release/citadel-test:release-1.0-20190219-09-16
+- gcr.io/istio-release/node-agent:release-1.0-20190219-09-16
+- gcr.io/istio-release/galley:release-1.1-20190219-09-16
+- gcr.io/istio-release/app:release-1.0-20190219-09-16
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190219-09-16
+- gcr.io/istio-release/galley:release-1.0-20190219-09-16
+- gcr.io/istio-release/proxyv2:release-1.0-20190219-09-16
+- gcr.io/istio-release/app:release-1.1-20190219-09-16
+- gcr.io/istio-release/pilot:release-1.0-20190219-09-16
+- gcr.io/istio-release/servicegraph_debug:release-1.0-20190219-09-16
+- gcr.io/istio-release/pilot:release-1.1-20190219-09-16
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190219-09-16
+- gcr.io/istio-release/kubectl:release-1.1-20190219-09-16
+- gcr.io/istio-release/proxy_init:release-1.0-20190219-09-16
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190219-09-16
+- gcr.io/istio-release/proxyv2:release-1.1-20190219-09-16
+- gcr.io/istio-release/mixer_debug:release-1.0-20190219-09-16
+- gcr.io/istio-release/servicegraph:release-1.0-20190219-09-16
+- gcr.io/istio-release/servicegraph:release-1.1-20190219-09-16
+- gcr.io/istio-release/test_policybackend:release-1.0-20190219-09-16
+- gcr.io/istio-release/sidecar_injector:release-1.0-20190219-09-16
+- gcr.io/istio-release/mixer:release-1.1-20190219-09-16
+- gcr.io/istio-release/test_policybackend:release-1.1-20190219-09-16
+- gcr.io/istio-release/proxy_debug:release-1.0-20190219-09-16
+- gcr.io/istio-release/mixer:release-1.0-20190219-09-16
+- gcr.io/istio-release/node-agent-test:release-1.0-20190219-09-16
+- gcr.io/istio-release/proxytproxy:release-1.1-20190219-09-16
+- gcr.io/istio-release/proxy_debug:release-1.1-20190219-09-16
