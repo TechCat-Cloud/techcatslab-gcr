@@ -143,3 +143,24 @@
 - gcr.io/istio-release/app:release-1.1-20190220-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190220-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190220-09-16
+### 2019-02-20 21:08:23 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:latest
+- gcr.io/kubeflow-images-public/notebook-controller:v20190124-820e618a-dirty-a21aef
+- gcr.io/kubeflow-images-public/notebook-controller:v20190214-v0.4.0-rc.1-127-g1349971b-dirty-3e791c
+- gcr.io/kubeflow-images-public/notebook-controller:v20190214-v0.4.0-rc.1-127-g20f35701-dirty-3ad6a4
+- gcr.io/kubeflow-images-public/notebook-controller:v20190214-v0.4.0-rc.1-128-ge2c16a41-dirty-a5dfd7
+- gcr.io/kubeflow-images-public/notebook-controller:v20190125-d9e292b3-dirty-219294
+- gcr.io/kubeflow-images-public/notebook-controller:v20190212-v0.4.0-rc.1-122-g4d82313b-dirty-9eefa4
+- gcr.io/kubeflow-images-public/nvidia-inferenceserver:18.05-py3
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-a9125d0-dirty-cf60e9
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-a9125d0-dirty-949904
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-a9125d0-dirty-de1564
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-cpu:v20180424-a9125d0-dirty-cf60e9
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-4b66dbf-dirty-17d732
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180305-pr339-05012fa-294b
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-a9125d0-dirty-ab3a6a
+- gcr.io/kubeflow-images-public/kubeflow-demo-gpu:v20180424-4b66dbf-dirty-7c3eff
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:1.0
+- gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-a9125d0-dirty-5b87d9
+- gcr.io/kubeflow-images-public/modeldb-backend:v0.2.0
