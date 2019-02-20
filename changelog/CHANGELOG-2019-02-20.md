@@ -107,3 +107,6 @@
 - gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180717-6f246896
 - gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180718-b6a70416
 - gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180718-c674d2be
+### 2019-02-20 11:12:51 Update:
+
+- gcr.io/kubeflow-images-public/test-app:092102
