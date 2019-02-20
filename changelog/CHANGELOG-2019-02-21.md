@@ -20,3 +20,6 @@
 - gcr.io/istio-release/sidecar_injector:master-20190220-10-14
 - gcr.io/istio-release/test_policybackend:master-20190220-10-14
 - gcr.io/istio-release/proxy_debug:master-20190220-10-14
+### 2019-02-21 04:01:38 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-4d92936-1144
