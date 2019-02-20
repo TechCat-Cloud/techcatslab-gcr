@@ -164,3 +164,8 @@
 - gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:1.0
 - gcr.io/kubeflow-images-public/kubeflow-yelp-demo-gpu:v20180424-a9125d0-dirty-5b87d9
 - gcr.io/kubeflow-images-public/modeldb-backend:v0.2.0
+### 2019-02-20 21:21:41 Update:
+
+- gcr.io/google-containers/vpa-admission-controller:0.4.0
+- gcr.io/google-containers/vpa-updater:0.4.0
+- gcr.io/google-containers/vpa-recommender:0.4.0
