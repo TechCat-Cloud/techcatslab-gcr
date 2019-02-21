@@ -22,3 +22,6 @@
 - gcr.io/google-appengine/api-verifier:flex_sidecars.20190221_RC00
 - gcr.io/google-appengine/go-compat:flex_sidecars.20190221_RC00
 - gcr.io/google-appengine/fluentd-logger:flex_sidecars.20190221_RC00
+### 2019-02-22 02:43:49 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-1d0758b-1165
