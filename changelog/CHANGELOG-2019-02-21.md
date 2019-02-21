@@ -43,3 +43,6 @@
 ### 2019-02-21 08:16:24 Update:
 
 - gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.9.0
+### 2019-02-21 10:04:02 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180707-5a11c84d
