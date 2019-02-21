@@ -40,3 +40,6 @@
 - gcr.io/istio-release/test_policybackend:release-1.1-20190220-11-45
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190220-11-45
 - gcr.io/istio-release/proxy_debug:release-1.1-20190220-11-45
+### 2019-02-21 08:16:24 Update:
+
+- gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.9.0
