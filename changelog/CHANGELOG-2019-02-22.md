@@ -34,3 +34,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180814-bdb97751
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180816-6d9862a1
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180815-433f9881
+### 2019-02-22 06:07:47 Update:
+
+- gcr.io/google-appengine/debian9:2019-02-21-215006
