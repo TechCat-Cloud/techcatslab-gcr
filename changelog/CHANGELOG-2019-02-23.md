@@ -23,3 +23,8 @@
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180902-b3b92edd
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180908-3bc78a46
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180827-defc2354
+### 2019-02-23 07:00:23 Update:
+
+- gcr.io/google-appengine/aspnetcore:1.1.11
+- gcr.io/google-appengine/aspnetcore:2.1.8
+- gcr.io/google-appengine/aspnetcore:1.0.14
