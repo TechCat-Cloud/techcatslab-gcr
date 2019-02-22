@@ -49,3 +49,6 @@
 ### 2019-02-22 08:08:22 Update:
 
 - gcr.io/google-containers/gvisor-admission-webhook-amd64:8ff1eff9f6e32b89190b9c66cbaaffc90666b85a
+### 2019-02-22 12:47:54 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:latest
