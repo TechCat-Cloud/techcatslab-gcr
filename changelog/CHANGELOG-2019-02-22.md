@@ -46,3 +46,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-667d618-1171
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-48d0152-1081
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-4ca7cc2-1142
+### 2019-02-22 08:08:22 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:8ff1eff9f6e32b89190b9c66cbaaffc90666b85a
