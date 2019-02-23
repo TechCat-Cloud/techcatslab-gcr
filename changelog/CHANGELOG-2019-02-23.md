@@ -100,3 +100,15 @@
 - gcr.io/istio-release/proxy_debug:master-20190223-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190223-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190223-09-16
+### 2019-02-23 19:52:33 Update:
+
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180913-734d593b
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180916-ddb07d75
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180914-de3c7145
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-3a29c8b-1112
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-1d0758b-1165
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-01519e7-1109
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-1c46aec-891
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180915-432f5d37
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180912-a31dbbf8
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:latest
