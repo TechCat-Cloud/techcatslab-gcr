@@ -76,3 +76,15 @@
 - gcr.io/istio-release/node-agent-test:release-1.0-20190226-09-16
 - gcr.io/istio-release/proxy_debug:master-20190226-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190226-09-16
+### 2019-02-26 21:59:59 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180806-145fac43
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180802-ac649bff
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180807-145fac43
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180809-9eeb9e65
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180803-4ec73180
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180805-8078114f
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180808-239dcc2e
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180804-8078114f
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180804-ae83c647
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180808-e5cdc91f
