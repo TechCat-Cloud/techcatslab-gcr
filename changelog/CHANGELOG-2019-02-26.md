@@ -8,3 +8,6 @@
 ### 2019-02-26 02:54:26 Update:
 
 - gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.0
+### 2019-02-26 08:44:09 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-8411c8b-885
