@@ -24,3 +24,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180601-f65fd457
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180708-5a11c84d
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180529-a8646db1
+### 2019-02-26 18:11:08 Update:
+
+- gcr.io/google-containers/event-exporter:v0.2.4
