@@ -134,3 +134,7 @@
 - gcr.io/google-containers/kube-proxy-ppc64le:v1.14.0-beta.1
 - gcr.io/google-containers/kube-scheduler-s390x:v1.14.0-beta.1
 - gcr.io/google-containers/hyperkube-arm64:v1.14.0-beta.1
+### 2019-02-27 10:46:22 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190226-v0.4.0-rc.1-171-g3c19a45a-dirty-121306
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180813-cbc1c068
