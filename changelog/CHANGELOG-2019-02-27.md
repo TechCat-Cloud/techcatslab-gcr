@@ -190,3 +190,6 @@
 ### 2019-02-27 20:50:58 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-797bcb7-1065
+### 2019-02-27 22:04:47 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.5.0
