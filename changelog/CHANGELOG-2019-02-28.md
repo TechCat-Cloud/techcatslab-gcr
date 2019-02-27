@@ -5,3 +5,6 @@
 - gcr.io/google-containers/kube-state-metrics-ppc64le:v1.5.0
 - gcr.io/google-containers/kube-state-metrics-arm64:v1.5.0
 - gcr.io/google-containers/kube-cross:v1.12.0-1
+### 2019-02-28 05:39:35 Update:
+
+- gcr.io/google-appengine/debian9:2019-02-27-130449
