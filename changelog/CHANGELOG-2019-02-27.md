@@ -193,3 +193,17 @@
 ### 2019-02-27 22:04:47 Update:
 
 - gcr.io/google-containers/prometheus-to-sd:v0.5.0
+### 2019-02-27 22:52:14 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180830-9ce45532
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180906-6cfc6f08
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180829-094ce470
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180905-62755c4f
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180905-6b211194
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180909-ea09d949
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180831-9ce45532
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180901-b3b92edd
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180902-b3b92edd
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180910-7317fa67
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180907-299acdaa
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180907-3bc78a46
