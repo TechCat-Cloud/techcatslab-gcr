@@ -31,3 +31,6 @@
 - gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190228_RC00
 - gcr.io/google-appengine/aspnetcore:1.1-2019-02-28_10_18
 - gcr.io/google-appengine/aspnetcore:2.1-2019-02-28_10_18
+### 2019-03-01 04:20:05 Update:
+
+- gcr.io/google-appengine/nodejs:2019-02-28_11_15
