@@ -102,3 +102,9 @@
 - gcr.io/kubernetes-helm/manager:latest
 - gcr.io/kubernetes-helm/manager:git-4d7c681
 - gcr.io/kubernetes-helm/manager:git-abd1a5c
+### 2019-02-28 14:52:36 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190227-v0.4.0-rc.1-177-g3b973eca-dirty-e62cd5
+- gcr.io/kubeflow-images-public/centraldashboard:v20190227-v0.4.0-rc.1-175-ga3de480e-dirty-7df713
+- gcr.io/kubeflow-images-public/centraldashboard:v20190227-v0.4.0-rc.1-176-g738de035
+- gcr.io/kubeflow-images-public/centraldashboard:v20190227-v0.4.0-rc.1-175-ga3de480e
