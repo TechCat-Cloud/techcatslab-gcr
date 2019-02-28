@@ -167,3 +167,9 @@
 - gcr.io/istio-release/proxy_debug:release-1.0-20190228-09-16
 - gcr.io/istio-release/proxy_debug:master-20190228-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190228-09-16
+### 2019-02-28 21:26:31 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-c022af0-1049
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-d1ee37b-955
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-b5bfe47-920
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v0.4.0
