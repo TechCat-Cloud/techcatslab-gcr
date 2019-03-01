@@ -126,3 +126,7 @@
 ### 2019-03-01 14:39:22 Update:
 
 - gcr.io/kubeflow-images-public/profile-controller:v20190228-v0.4.0-rc.1-192-g1a802656-dirty-f95773
+### 2019-03-01 15:40:47 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b321075-822
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.3.1
