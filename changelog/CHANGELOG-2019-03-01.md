@@ -120,3 +120,6 @@
 - gcr.io/google-containers/kube-controller-manager-s390x:v1.11.8
 - gcr.io/google-containers/kube-controller-manager-s390x:v1.11.9-beta.0
 - gcr.io/google-containers/kube-controller-manager-ppc64le:v1.11.9-beta.0
+### 2019-03-01 08:56:03 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:v20190228-v0.4.0-rc.1-173-g3ea53cc2
