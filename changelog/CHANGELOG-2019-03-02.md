@@ -22,3 +22,10 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-797bcb7-1065
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-gpu:v-base-01519e7-1109
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-797bcb7-1067
+### 2019-03-02 04:53:54 Update:
+
+- gcr.io/google-appengine/aspnetcore:1.1-2019-03-01_12_20
+- gcr.io/google-appengine/aspnetcore:1.0-2019-03-01_12_20
+- gcr.io/google-appengine/aspnetcore:2.0-2019-03-01_12_20
+- gcr.io/google-appengine/aspnetcore:2.2-2019-03-01_12_20
+- gcr.io/google-appengine/aspnetcore:2.1-2019-03-01_12_20
