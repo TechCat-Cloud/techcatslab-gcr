@@ -37,3 +37,8 @@
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-7f429a2-314-7792
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-1cc6bde-311-3164
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-0524257-1200
+### 2019-03-02 15:41:13 Update:
+
+- gcr.io/kubeflow-images-public/profile-controller:latest
+- gcr.io/kubeflow-images-public/profile-controller:v20190301-v0.4.0-rc.1-178-g22592d58-dirty-21388a
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180604-ad57a0f9
