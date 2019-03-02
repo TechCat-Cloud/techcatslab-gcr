@@ -117,3 +117,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.3.0
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.3.1
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.4.0
+### 2019-03-02 23:55:27 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180607-476e150e
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180708-5a11c84d
