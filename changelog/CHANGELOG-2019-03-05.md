@@ -112,3 +112,15 @@
 - gcr.io/istio-release/proxyv2:master-20190305-09-16
 - gcr.io/istio-release/proxyv2:release-1.0-20190305-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190305-09-16
+### 2019-03-05 19:43:01 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-0524257-1200
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180718-de364503
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180618-c79194b3
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180717-6f246896
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180719-7fc45451
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180721-471de67f
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180722-471de67f
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180710-bf1c2f0a
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180711-59f3af03
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180711-4c0b6a5a
