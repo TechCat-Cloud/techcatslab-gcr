@@ -28,3 +28,6 @@
 
 - gcr.io/kubeflow-images-public/centraldashboard:v20190305-v0.4.0-rc.1-193-gf219af6b
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180906-6cfc6f08
+### 2019-03-06 08:44:44 Update:
+
+- gcr.io/google-appengine/nodejs:2019-03-06-000418
