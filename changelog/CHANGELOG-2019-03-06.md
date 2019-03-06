@@ -31,3 +31,12 @@
 ### 2019-03-06 08:44:44 Update:
 
 - gcr.io/google-appengine/nodejs:2019-03-06-000418
+### 2019-03-06 10:31:40 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-667d618-1171
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-97b94c0-1202
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-0524257-1200
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-gpu:v-base-48d0152-1081
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-d635ca8-1180
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-01519e7-1109
