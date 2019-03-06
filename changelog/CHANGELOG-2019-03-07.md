@@ -17,3 +17,6 @@
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180811-cbc1c068
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180711-59f3af03
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180711-4c0b6a5a
+### 2019-03-07 01:52:00 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.3.0
