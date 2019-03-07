@@ -40,3 +40,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-01519e7-1109
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180818-af0a2dc7
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:latest
+### 2019-03-08 05:56:55 Update:
+
+- gcr.io/google-appengine/jetty:9.4-2019-03-07_21_10
