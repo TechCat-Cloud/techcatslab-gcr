@@ -43,3 +43,9 @@
 ### 2019-03-08 05:56:55 Update:
 
 - gcr.io/google-appengine/jetty:9.4-2019-03-07_21_10
+### 2019-03-08 07:52:47 Update:
+
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-rc.1-6-gd09eb65
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-rc.1-5-g47d1dc3
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180906-6cfc6f08
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-97b94c0-1202
