@@ -17,3 +17,7 @@
 - gcr.io/google-appengine/fluentd-logger:flex_sidecars.20190307_RC00
 - gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190307_RC00
 - gcr.io/google-appengine/api-verifier:flex_sidecars.20190307_RC00
+### 2019-03-08 02:40:48 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-8411c8b-885
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-0524257-1200
