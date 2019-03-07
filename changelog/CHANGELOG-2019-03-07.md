@@ -131,3 +131,7 @@
 ### 2019-03-07 20:13:16 Update:
 
 - gcr.io/google-containers/cluster-autoscaler:v1.2.5
+### 2019-03-07 22:51:15 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-4fbdb02-1080
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-1c46aec-891
