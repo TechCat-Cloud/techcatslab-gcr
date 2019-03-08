@@ -49,3 +49,15 @@
 - gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-rc.1-5-g47d1dc3
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180906-6cfc6f08
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-97b94c0-1202
+### 2019-03-08 12:54:59 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.2.1
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180301-pr317
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b5bfe47-920
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.4.0
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.3.1
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-d635ca8-1180
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.3.0
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b9014c7-857
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-c022af0-1049
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-d1ee37b-955
