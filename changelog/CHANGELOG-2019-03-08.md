@@ -162,3 +162,10 @@
 ### 2019-03-08 20:10:56 Update:
 
 - gcr.io/google-containers/kubelet-to-gcm:1.2.10
+### 2019-03-08 20:58:45 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180711-e7e16c4a
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180713-7ccca0ab
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180712-a730ddf0
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180712-692539bf
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180714-8bda3cfd
