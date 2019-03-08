@@ -159,3 +159,6 @@
 - gcr.io/istio-release/pilot:release-1.1-20190308-09-16
 - gcr.io/istio-release/kubectl:release-1.1-20190308-09-16
 - gcr.io/istio-release/proxy_debug:master-20190308-09-16
+### 2019-03-08 20:10:56 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.2.10
