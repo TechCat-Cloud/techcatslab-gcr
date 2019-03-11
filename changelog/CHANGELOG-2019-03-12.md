@@ -27,3 +27,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.3.0
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-d1ee37b-955
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.4.0
+### 2019-03-12 06:53:12 Update:
+
+- gcr.io/google-containers/gke-metadata-server:v0.2.0
+- gcr.io/google-containers/gke-metadata-server:0cc277a18a8958daf46012010175fddd5f8ac044
