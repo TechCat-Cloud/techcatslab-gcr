@@ -22,3 +22,12 @@
 
 - gcr.io/kubeflow-images-public/abhig-issue-summarization-notebook:latest
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-gpu:v-base-1c46aec-891
+### 2019-03-11 11:19:10 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180803-4ec73180
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-gpu:v-base-1d0758b-1165
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-gpu:v-base-01519e7-1109
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180807-145fac43
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180822-7c5f05b3
+- gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-797bcb7-1075
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-gpu:v-base-0524257-1200
