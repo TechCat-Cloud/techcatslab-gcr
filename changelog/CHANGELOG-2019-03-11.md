@@ -84,3 +84,13 @@
 - gcr.io/istio-release/proxyv2:release-1.1-20190311-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190311-09-16
 - gcr.io/istio-release/citadel-test:release-1.0-20190311-09-16
+### 2019-03-11 18:37:16 Update:
+
+- gcr.io/istio-release/sidecar_injector:master-20190311-09-16
+- gcr.io/istio-release/servicegraph:master-20190311-09-16
+- gcr.io/istio-release/test_policybackend:master-20190311-09-16
+- gcr.io/istio-release/proxy_init:master-20190311-09-16
+- gcr.io/istio-release/pilot:master-20190311-09-16
+- gcr.io/istio-release/proxyv2:master-20190311-09-16
+- gcr.io/istio-release/proxytproxy:master-20190311-09-16
+- gcr.io/istio-release/proxy_debug:master-20190311-09-16
