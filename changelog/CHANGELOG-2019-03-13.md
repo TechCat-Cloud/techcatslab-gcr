@@ -59,3 +59,6 @@
 
 - gcr.io/kubeflow-images-public/centraldashboard:v20190312-v0.4.0-rc.1-206-g872de1c3
 - gcr.io/kubeflow-images-public/jupyter-web-app:latest
+### 2019-03-13 05:24:54 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v20180531-f25dd9ed
