@@ -31,3 +31,15 @@
 
 - gcr.io/google-containers/gke-metadata-server:v0.2.0
 - gcr.io/google-containers/gke-metadata-server:0cc277a18a8958daf46012010175fddd5f8ac044
+### 2019-03-12 10:40:06 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180718-de364503
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180721-471de67f
+- gcr.io/kubeflow-images-public/tensor2tensor-github:gpu
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180610-07630550
+- gcr.io/kubeflow-images-public/tensor2tensor-github:cpu
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180719-7fc45451
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180720-3d099b9a
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180718-f5801b13
+- gcr.io/kubeflow-images-public/tensor2tensor-github:latest
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180718-b6a70416
