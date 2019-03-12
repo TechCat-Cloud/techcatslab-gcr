@@ -154,3 +154,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180711-e7e16c4a
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180713-6140bdad
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180725-177377f1
+### 2019-03-12 23:46:55 Update:
+
+- gcr.io/google-containers/fluentd-gcp-scaler:0.5.1
