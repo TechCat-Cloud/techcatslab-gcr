@@ -55,3 +55,7 @@
 - gcr.io/google-containers/kube-apiserver-arm:v1.14.0-beta.2
 - gcr.io/google-containers/hyperkube-ppc64le:v1.14.0-beta.2
 - gcr.io/google-containers/hyperkube-arm64:v1.14.0-beta.2
+### 2019-03-13 04:23:51 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190312-v0.4.0-rc.1-206-g872de1c3
+- gcr.io/kubeflow-images-public/jupyter-web-app:latest
