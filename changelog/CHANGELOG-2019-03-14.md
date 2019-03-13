@@ -4,3 +4,6 @@
 ### 2019-03-14 05:05:54 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180729-32b79ba9
+### 2019-03-14 05:19:54 Update:
+
+- gcr.io/google-appengine/nodejs:2019-03-13-201612
