@@ -95,3 +95,13 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180601-f65fd457
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180606-9dfda4f2
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180604-b3733835
+### 2019-03-13 16:29:07 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180703-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180630-6c2c69b2
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180706-0725-pr1136-fce4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180702-6c2c69b2
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180705-1045-pr1131-HEAD-1824
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180627-27539c57
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180626-91048ad4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180619-c79194b3
