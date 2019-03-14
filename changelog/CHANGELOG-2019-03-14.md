@@ -41,3 +41,15 @@
 
 - gcr.io/kubeflow-images-public/gcp-admission-webhook:v20190313-v0.4.0-rc.1-213-g49b07c32-dirty-a9817e
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v20180604-ad57a0f9
+### 2019-03-14 11:59:45 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180808-239dcc2e
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180807-145fac43
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180817-c18d4c75
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180805-8078114f
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180808-e5cdc91f
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180813-cbc1c068
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180813-f4c48937
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180814-bdb97751
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180806-145fac43
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180810-9eeb9e65
