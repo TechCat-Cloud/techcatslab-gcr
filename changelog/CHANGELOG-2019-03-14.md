@@ -37,3 +37,7 @@
 
 - gcr.io/google-containers/gke-metadata-server:v0.2.1
 - gcr.io/google-containers/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10
+### 2019-03-14 09:07:58 Update:
+
+- gcr.io/kubeflow-images-public/gcp-admission-webhook:v20190313-v0.4.0-rc.1-213-g49b07c32-dirty-a9817e
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v20180604-ad57a0f9
