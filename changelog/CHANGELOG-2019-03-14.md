@@ -33,3 +33,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180705-1045-pr1131-HEAD-1824
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180614-f6377404
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180619-c79194b3
+### 2019-03-14 08:21:05 Update:
+
+- gcr.io/google-containers/gke-metadata-server:v0.2.1
+- gcr.io/google-containers/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10
