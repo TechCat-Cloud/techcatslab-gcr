@@ -142,3 +142,6 @@
 - gcr.io/google-appengine/api-verifier:flex_sidecars.20190314_RC00
 - gcr.io/google-appengine/mvm-agent:flex_sidecars.20190314_RC00
 - gcr.io/google-appengine/go-compat:flex_sidecars.20190314_RC00
+### 2019-03-14 23:51:17 Update:
+
+- gcr.io/google-containers/fluentd-gcp:2.1.0
