@@ -32,3 +32,6 @@
 ### 2019-03-16 03:00:33 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-gpu:v20180708-5a11c84d
+### 2019-03-16 05:17:42 Update:
+
+- gcr.io/google-containers/kube-cross:v1.12.1-1
