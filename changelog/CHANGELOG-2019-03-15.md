@@ -85,3 +85,6 @@
 - gcr.io/istio-release/sidecar_injector:master-20190315-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190315-09-16
 - gcr.io/istio-release/proxyv2:master-20190315-09-16
+### 2019-03-15 18:49:34 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.14.0-beta.2
