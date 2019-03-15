@@ -27,3 +27,6 @@
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:2018-05-18-730df5c2
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180914-54dc9852
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180912-2a330ad7
+### 2019-03-15 08:29:38 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-1c46aec-891
