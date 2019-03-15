@@ -35,3 +35,8 @@
 ### 2019-03-16 05:17:42 Update:
 
 - gcr.io/google-containers/kube-cross:v1.12.1-1
+### 2019-03-16 07:02:35 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190315-v0.4.0-rc.1-222-gb42734af-dirty-fe0417
+- gcr.io/kubeflow-images-public/centraldashboard:v20190315-v0.4.0-rc.1-222-gb42734af
+- gcr.io/kubeflow-images-public/gcp-admission-webhook:v20190315-v0.4.0-rc.1-219-ge17cfee4-dirty-3f9236
