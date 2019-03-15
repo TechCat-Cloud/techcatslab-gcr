@@ -88,3 +88,6 @@
 ### 2019-03-15 18:49:34 Update:
 
 - gcr.io/google-containers/cluster-autoscaler:v1.14.0-beta.2
+### 2019-03-15 22:39:23 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.5.1
