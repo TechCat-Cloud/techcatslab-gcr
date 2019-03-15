@@ -29,3 +29,6 @@
 
 - gcr.io/google-containers/gke-metadata-server:v0.2.2
 - gcr.io/google-containers/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6
+### 2019-03-16 03:00:33 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-gpu:v20180708-5a11c84d
