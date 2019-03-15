@@ -25,3 +25,7 @@
 ### 2019-03-16 01:12:28 Update:
 
 - gcr.io/google-appengine/nodejs:2019-03-15_09_38
+### 2019-03-16 02:13:28 Update:
+
+- gcr.io/google-containers/gke-metadata-server:v0.2.2
+- gcr.io/google-containers/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6
