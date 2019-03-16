@@ -11,3 +11,7 @@
 ### 2019-03-17 03:22:45 Update:
 
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180824-70284dc9
+### 2019-03-17 05:23:35 Update:
+
+- gcr.io/kubeflow-images-public/gcp-admission-webhook:v20190316-v0.4.0-rc.1-227-gac45af55-dirty-3f9236
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180708-5a11c84d
