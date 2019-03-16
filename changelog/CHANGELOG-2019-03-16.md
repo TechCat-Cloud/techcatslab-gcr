@@ -40,3 +40,6 @@
 - gcr.io/kubeflow-images-public/centraldashboard:v20190315-v0.4.0-rc.1-222-gb42734af-dirty-fe0417
 - gcr.io/kubeflow-images-public/centraldashboard:v20190315-v0.4.0-rc.1-222-gb42734af
 - gcr.io/kubeflow-images-public/gcp-admission-webhook:v20190315-v0.4.0-rc.1-219-ge17cfee4-dirty-3f9236
+### 2019-03-16 09:03:29 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-4ca7cc2-1142
