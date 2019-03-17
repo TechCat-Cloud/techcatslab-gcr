@@ -99,3 +99,17 @@
 - gcr.io/istio-release/proxyv2:release-1.0-20190317-09-16
 - gcr.io/istio-release/proxyv2:master-20190317-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190317-09-16
+### 2019-03-17 20:10:24 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180814-bdb97751
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180816-ab608434
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180814-753506b9
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180815-433f9881
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180815-ab608434
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180819-6899f628
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180818-af0a2dc7
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180706-0725-pr1136-fce4
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180708-5a11c84d
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180707-a1886984
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180706-1602-a50c2fb0
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180820-6899f628
