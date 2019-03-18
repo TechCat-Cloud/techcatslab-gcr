@@ -34,3 +34,15 @@
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180815-433f9881
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180711-59f3af03
 - gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180722-471de67f
+### 2019-03-18 09:57:30 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180710-bf1c2f0a
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180702-6c2c69b2
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180703-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180707-a1886984
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180708-5a11c84d
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180704-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180705-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180706-1602-a50c2fb0
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180705-1045-pr1131-HEAD-1824
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180706-0725-pr1136-fce4
