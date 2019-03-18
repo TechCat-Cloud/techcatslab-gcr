@@ -64,3 +64,9 @@
 ### 2019-03-18 12:58:51 Update:
 
 - gcr.io/kubeflow-images-public/centraldashboard:v20190317-v0.4.0-rc.1-233-gf6f7a1a6
+### 2019-03-18 13:59:15 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-d635ca8-1180
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-a25790d-1229
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-667d618-1171
