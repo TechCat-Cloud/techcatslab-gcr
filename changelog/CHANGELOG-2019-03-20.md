@@ -55,3 +55,7 @@
 - gcr.io/google-containers/kube-apiserver-ppc64le:v1.14.0-rc.1
 - gcr.io/google-containers/kube-controller-manager:v1.14.0-rc.1
 - gcr.io/google-containers/kube-apiserver-s390x:v1.14.0-rc.1
+### 2019-03-20 04:27:04 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180607-476e150e
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180608-cc3566da
