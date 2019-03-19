@@ -65,3 +65,7 @@
 - gcr.io/google-appengine/aspnetcore:2.2.3
 - gcr.io/google-appengine/aspnetcore:1.1.12
 - gcr.io/google-appengine/aspnetcore:2.1.9
+### 2019-03-20 05:27:35 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-0524257-1200
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-74ac37c-1214
