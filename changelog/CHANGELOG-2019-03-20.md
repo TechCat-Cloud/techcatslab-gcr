@@ -69,3 +69,11 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-0524257-1200
 - gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-74ac37c-1214
+### 2019-03-20 09:03:01 Update:
+
+- gcr.io/google-appengine/php-base:2019-03-19-16-58
+- gcr.io/google-appengine/php72:2019-03-19-16-58
+- gcr.io/google-appengine/php56:2019-03-19-16-58
+- gcr.io/google-appengine/php:2019-03-19-16-58
+- gcr.io/google-appengine/php71:2019-03-19-16-58
+- gcr.io/google-appengine/php70:2019-03-19-16-58
