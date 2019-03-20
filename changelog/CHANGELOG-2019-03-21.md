@@ -10,3 +10,6 @@
 ### 2019-03-21 06:28:46 Update:
 
 - gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-rc.1-8-gc3ae150
+### 2019-03-21 07:42:14 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:78c403330522711939493a920c9df5157c08289b
