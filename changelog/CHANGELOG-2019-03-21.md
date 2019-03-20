@@ -7,3 +7,6 @@
 ### 2019-03-21 04:27:52 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180419-0ad94c4e
+### 2019-03-21 06:28:46 Update:
+
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-rc.1-8-gc3ae150
