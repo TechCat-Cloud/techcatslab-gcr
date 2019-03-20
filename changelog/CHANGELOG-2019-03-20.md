@@ -155,3 +155,6 @@
 ### 2019-03-20 21:54:24 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180901-b3b92edd
+### 2019-03-20 22:44:56 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190319-v0.4.0-rc.1-236-g52cbb4c7-dirty-dc57e8
