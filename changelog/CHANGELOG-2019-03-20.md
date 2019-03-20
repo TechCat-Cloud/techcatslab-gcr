@@ -80,3 +80,16 @@
 ### 2019-03-20 09:04:36 Update:
 
 - gcr.io/google-containers/toolbox:20190312-00
+### 2019-03-20 11:50:01 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-d1ee37b-955
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-c022af0-1049
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-b9014c7-857
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-b5bfe47-920
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-c022af0-1049
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-e8af8e5-1257
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b9014c7-857
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-a25790d-1229
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-d635ca8-1180
