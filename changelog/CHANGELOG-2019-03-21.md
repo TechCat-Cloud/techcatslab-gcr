@@ -13,3 +13,16 @@
 ### 2019-03-21 07:42:14 Update:
 
 - gcr.io/google-containers/gvisor-admission-webhook-amd64:78c403330522711939493a920c9df5157c08289b
+### 2019-03-21 08:29:26 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180717-6f246896
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180712-a730ddf0
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180714-a9b4aa87
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180716-0fb9cdae
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180831-9ce45532
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180901-b3b92edd
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180713-6140bdad
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180715-794eea62
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180713-7ccca0ab
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180830-9ce45532
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180902-b3b92edd
