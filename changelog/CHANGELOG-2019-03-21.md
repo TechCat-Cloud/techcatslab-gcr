@@ -29,3 +29,11 @@
 ### 2019-03-21 08:42:36 Update:
 
 - gcr.io/google-appengine/nodejs:2019-03-20_16_41
+### 2019-03-21 10:30:18 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190320-v0.4.0-rc.1-237-g7381b227-dirty-58cc54
+- gcr.io/kubeflow-images-public/notebook-controller:v20190320-v0.4.0-rc.1-237-g7381b227-dirty-fba229
+- gcr.io/kubeflow-images-public/notebook-controller:v20190320-v0.4.0-rc.1-237-g7381b227-dirty-4f6685
+- gcr.io/kubeflow-images-public/notebook-controller:v20190320-v0.4.0-rc.1-237-g7381b227-dirty-624373
+- gcr.io/kubeflow-images-public/notebook-controller:v20190320-v0.4.0-rc.1-237-g7381b227-dirty-dbc1aa
+- gcr.io/kubeflow-images-public/notebook-controller:v20190320-v0.4.0-rc.1-238-gb90dddb0-dirty-dcf6c4
