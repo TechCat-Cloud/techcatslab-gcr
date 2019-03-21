@@ -117,3 +117,14 @@
 - gcr.io/istio-release/proxy_debug:master-20190321-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190321-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190321-09-16
+### 2019-03-21 23:24:56 Update:
+
+- gcr.io/google-appengine/api-proxy:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/base:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/mvm-agent:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/go-compat:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/java-compat:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/iap-watcher:flex_sidecars.20190321_RC00
+- gcr.io/google-appengine/api-verifier:flex_sidecars.20190321_RC00
