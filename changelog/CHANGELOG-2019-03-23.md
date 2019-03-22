@@ -18,3 +18,6 @@
 - gcr.io/google-appengine/php72:2019-03-22-12-02
 - gcr.io/google-appengine/php56:2019-03-22-12-02
 - gcr.io/google-appengine/php71:2019-03-22-12-02
+### 2019-03-23 06:32:53 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-gpu:v-base-01519e7-1109
