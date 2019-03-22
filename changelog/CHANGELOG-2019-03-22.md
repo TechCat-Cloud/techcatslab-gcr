@@ -129,3 +129,14 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180722-471de67f
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180714-8bda3cfd
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180718-f5801b13
+### 2019-03-22 23:39:39 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-bb2c304-320-4bf3
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-dde9890-321-e911
+- gcr.io/kubeflow-images-public/centraldashboard:v20190322-v0.4.0-rc.1-253-gd090f90d
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-4689a23-322-3f10
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180813-cbc1c068
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180722-471de67f
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180815-433f9881
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180817-c18d4c75
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180817-a63c927a
