@@ -35,3 +35,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-d635ca8-1180
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-a25790d-1229
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-52cbb4c-1258
+### 2019-03-24 13:58:35 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-a25790d-1229
