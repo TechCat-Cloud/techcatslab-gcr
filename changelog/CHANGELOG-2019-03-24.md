@@ -94,3 +94,6 @@
 
 - gcr.io/kubernetes-helm/tiller:v2.13.1
 - gcr.io/kubernetes-helm/tiller:v2.13.1-rc.1
+### 2019-03-24 20:53:33 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-gpu:v-base-97b94c0-1202
