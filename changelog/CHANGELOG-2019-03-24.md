@@ -90,3 +90,7 @@
 - gcr.io/istio-release/proxyv2:release-1.0-20190324-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190324-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190324-09-16
+### 2019-03-24 19:08:08 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.1
+- gcr.io/kubernetes-helm/tiller:v2.13.1-rc.1
