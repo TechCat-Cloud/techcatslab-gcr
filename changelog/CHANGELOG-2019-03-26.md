@@ -289,3 +289,14 @@
 - gcr.io/google-samples/ml-pipeline-t2ttrain-cpu:latest
 - gcr.io/google-samples/ml-pipeline-t2tapp:latest
 - gcr.io/google-samples/echo-php:1.0
+### 2019-03-26 03:22:51 Update:
+
+- gcr.io/google-containers/debian-base-amd64:v1.0.0
+- gcr.io/google-containers/debian-base-s390x:v1.0.0
+- gcr.io/google-containers/debian-base-arm64:v1.0.0
+- gcr.io/google-containers/debian-base-arm:v1.0.0
+- gcr.io/google-containers/debian-base:v1.0.0
+- gcr.io/google-containers/hyperkube-ppc64le:v1.14.1-beta.0
+- gcr.io/google-containers/hyperkube-ppc64le:v1.14.0
+- gcr.io/google-containers/debian-base-ppc64le:v1.0.0
+- gcr.io/google-containers/hyperkube:v1.14.1-beta.0
