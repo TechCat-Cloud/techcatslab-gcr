@@ -300,3 +300,8 @@
 - gcr.io/google-containers/hyperkube-ppc64le:v1.14.0
 - gcr.io/google-containers/debian-base-ppc64le:v1.0.0
 - gcr.io/google-containers/hyperkube:v1.14.1-beta.0
+### 2019-03-26 06:04:48 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-52cbb4c-1258
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1065
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-7a84feb-864
