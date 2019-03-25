@@ -274,3 +274,18 @@
 - gcr.io/google-containers/kube-controller-manager-ppc64le:v1.14.1-beta.0
 - gcr.io/google-containers/kube-controller-manager-arm64:v1.14.0
 - gcr.io/google-containers/kube-controller-manager-arm64:v1.14.1-beta.0
+### 2019-03-26 02:30:38 Update:
+
+- gcr.io/google-samples/zone-printer:0.1
+- gcr.io/google-samples/hello-app-cdn:1.0
+- gcr.io/google-samples/freshpod:v0.0.1-1-g739de1f
+- gcr.io/google-samples/freshpod:v0.0.1
+- gcr.io/google-samples/hello-app:1.0
+- gcr.io/google-samples/hello-app:2.0
+- gcr.io/google-samples/gb-redisslave:v2
+- gcr.io/google-samples/gb-redisslave:v3
+- gcr.io/google-samples/gb-redisslave:v1
+- gcr.io/google-samples/sd-dummy-exporter:latest
+- gcr.io/google-samples/ml-pipeline-t2ttrain-cpu:latest
+- gcr.io/google-samples/ml-pipeline-t2tapp:latest
+- gcr.io/google-samples/echo-php:1.0
