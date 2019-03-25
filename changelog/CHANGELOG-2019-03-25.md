@@ -146,3 +146,30 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180914-de3c7145
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180905-6b211194
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180831-9ce45532
+### 2019-03-25 22:47:26 Update:
+
+- gcr.io/google-containers/kube-scheduler-amd64:v1.12.7
+- gcr.io/google-containers/kube-proxy-arm:v1.12.7
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.12.7
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.12.7
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.12.7
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.12.7
+- gcr.io/google-containers/kube-controller-manager-arm:v1.12.7
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.12.7
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.12.7
+- gcr.io/google-containers/kube-scheduler-arm:v1.12.7
+- gcr.io/google-containers/kube-apiserver-arm64:v1.12.7
+- gcr.io/google-containers/cloud-controller-manager-arm:v1.12.7
+- gcr.io/google-containers/cloud-controller-manager-amd64:v1.12.7
+- gcr.io/google-containers/cloud-controller-manager-s390x:v1.12.7
+- gcr.io/google-containers/kube-proxy-amd64:v1.12.7
+- gcr.io/google-containers/kube-scheduler-arm64:v1.12.7
+- gcr.io/google-containers/cloud-controller-manager-arm64:v1.12.7
+- gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.12.7
+- gcr.io/google-containers/kube-proxy-arm64:v1.12.7
+- gcr.io/google-containers/kube-apiserver-arm:v1.12.7
+- gcr.io/google-containers/kube-apiserver-amd64:v1.12.7
+- gcr.io/google-containers/hyperkube-arm64:v1.12.7
+- gcr.io/google-containers/hyperkube-arm:v1.12.7
+- gcr.io/google-containers/hyperkube-amd64:v1.12.7
+- gcr.io/google-containers/hyperkube-ppc64le:v1.12.7
