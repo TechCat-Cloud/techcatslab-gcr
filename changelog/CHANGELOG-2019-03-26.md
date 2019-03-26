@@ -423,3 +423,6 @@
 - gcr.io/google-containers/vpa-admission-controller:0.5.0
 - gcr.io/google-containers/vpa-recommender:0.5.0
 - gcr.io/google-containers/vpa-updater:0.5.0
+### 2019-03-26 21:22:15 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-c022af0-1049
