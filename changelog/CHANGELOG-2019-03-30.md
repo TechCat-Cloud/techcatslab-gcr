@@ -22,3 +22,19 @@
 - gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190329_RC00
 - gcr.io/google-appengine/api-verifier:flex_sidecars.20190329_RC00
 - gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190329_RC00
+### 2019-03-30 05:38:15 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-aa322c7-3744-9f22
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-aa322c7-3488-af15
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-bd88c25-0624-478d
+- gcr.io/kubeflow-images-public/tf_operator:v0.5.0
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180817-c18d4c75
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180813-cbc1c068
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180815-433f9881
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180817-a63c927a
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180711-4c0b6a5a
+- gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180722-471de67f
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-1d0758b-1165
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-01519e7-1109
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-1c46aec-891
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-0524257-1200
