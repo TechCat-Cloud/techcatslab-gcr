@@ -44,3 +44,9 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180825-41368da0
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180827-defc2354
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180905-62755c4f
+### 2019-03-31 06:32:39 Update:
+
+- gcr.io/google-appengine/api-proxy:flex_sidecars.20190330a_RC00
+- gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190330a_RC00
+- gcr.io/google-appengine/api-verifier:flex_sidecars.20190330a_RC00
+- gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190330a_RC00
