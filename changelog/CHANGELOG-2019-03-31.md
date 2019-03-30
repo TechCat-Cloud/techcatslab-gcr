@@ -50,3 +50,6 @@
 - gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190330a_RC00
 - gcr.io/google-appengine/api-verifier:flex_sidecars.20190330a_RC00
 - gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190330a_RC00
+### 2019-03-31 07:20:22 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v-base-c022af0-1049
