@@ -98,3 +98,8 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-52cbb4c-1258
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.5.0
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180613-2cdd735c
+### 2019-03-31 17:24:53 Update:
+
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-rc.1-12-ge8d4d04
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-a25790d-1229
