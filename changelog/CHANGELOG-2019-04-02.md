@@ -24,3 +24,11 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180813-cbc1c068
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180803-4ec73180
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180804-8078114f
+### 2019-04-02 07:44:52 Update:
+
+- gcr.io/google-containers/debian-iptables-amd64:v11.0.2
+- gcr.io/google-containers/debian-iptables:v11.0.2
+- gcr.io/google-containers/debian-iptables-s390x:v11.0.2
+- gcr.io/google-containers/debian-iptables-arm:v11.0.2
+- gcr.io/google-containers/debian-iptables-arm64:v11.0.2
+- gcr.io/google-containers/debian-iptables-ppc64le:v11.0.2
