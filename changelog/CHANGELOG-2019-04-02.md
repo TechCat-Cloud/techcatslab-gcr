@@ -32,3 +32,8 @@
 - gcr.io/google-containers/debian-iptables-arm:v11.0.2
 - gcr.io/google-containers/debian-iptables-arm64:v11.0.2
 - gcr.io/google-containers/debian-iptables-ppc64le:v11.0.2
+### 2019-04-02 08:31:58 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180720-3d099b9a
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180722-471de67f
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180721-471de67f
