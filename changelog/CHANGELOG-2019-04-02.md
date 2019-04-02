@@ -151,3 +151,17 @@
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190402-09-16
 - gcr.io/istio-release/proxy_debug:master-20190402-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190402-09-16
+### 2019-04-02 19:49:21 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180727-1628d96b
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180726-177377f1
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180728-645db22f
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180725-177377f1
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180729-32b79ba9
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180729-19ca6d4d
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180715-a9b4aa87
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180718-b6a70416
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180718-de364503
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180718-f5801b13
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180719-7fc45451
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180724-0047a53d
