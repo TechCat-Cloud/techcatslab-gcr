@@ -36,3 +36,15 @@
 ### 2019-04-03 15:54:23 Update:
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-master
+### 2019-04-03 17:35:40 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-7a84feb-864
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-a25790d-1229
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-d635ca8-1180
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-c022af0-1049
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-a5ca137-1298
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-8411c8b-885
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-97b94c0-1202
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-e8af8e5-1257
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-910e7ef-1113
