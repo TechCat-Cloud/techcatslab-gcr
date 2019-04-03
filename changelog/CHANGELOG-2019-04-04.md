@@ -34,3 +34,7 @@
 ### 2019-04-04 06:19:26 Update:
 
 - gcr.io/google-appengine/jetty:9.4-2019-04-03_21_20
+### 2019-04-04 07:11:27 Update:
+
+- gcr.io/istio-release/proxyv2:1.1.2
+- gcr.io/istio-release/proxy:1.1.2
