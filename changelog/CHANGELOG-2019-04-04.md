@@ -38,3 +38,11 @@
 
 - gcr.io/istio-release/proxyv2:1.1.2
 - gcr.io/istio-release/proxy:1.1.2
+### 2019-04-04 07:57:15 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180529-a8646db1
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180601-f65fd457
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180612-f7a68336
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180610-07630550
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180618-c79194b3
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180611-07630550
