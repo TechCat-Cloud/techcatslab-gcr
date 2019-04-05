@@ -49,3 +49,15 @@
 ### 2019-04-05 09:43:21 Update:
 
 - gcr.io/google-containers/cadvisor:v0.33.0
+### 2019-04-05 11:21:52 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-910e7ef-1113
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180604-ad57a0f9
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180604-0da89b8a
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180607-476e150e
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180601-4b529ea9
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180603-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180604-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180607-0d9be5e4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180602-b3733835
