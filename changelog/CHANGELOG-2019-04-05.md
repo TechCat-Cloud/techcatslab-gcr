@@ -43,3 +43,6 @@
 - gcr.io/google-appengine/openjdk:8-2019-04-04_22_16
 - gcr.io/google-appengine/jetty:9.4-2019-04-04_22_15
 - gcr.io/google-appengine/openjdk:8-2019-04-04_22_37
+### 2019-04-05 08:02:18 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:aa768aa30de1936f81bf2bc5e5d19d136a3af763
