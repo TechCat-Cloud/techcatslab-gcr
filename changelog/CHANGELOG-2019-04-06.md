@@ -16,3 +16,15 @@
 ### 2019-04-06 02:10:53 Update:
 
 - gcr.io/google-containers/node-problem-detector:v0.6.3
+### 2019-04-06 04:39:08 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180523-2a68f293
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180530-569fc9f7
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180523-7eeee8c9
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180604-ad57a0f9
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180604-0da89b8a
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180605-1e8093e8
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180606-d90ffcca
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180607-476e150e
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180603-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180601-2464851a
