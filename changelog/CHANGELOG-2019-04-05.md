@@ -64,3 +64,6 @@
 ### 2019-04-05 12:12:34 Update:
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-55f255-1113959371173269507
+### 2019-04-05 13:03:17 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180301-pr317
