@@ -154,3 +154,7 @@
 - gcr.io/istio-release/test_policybackend:release-1.0-20190406-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190406-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190406-09-16
+### 2019-04-06 19:01:14 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-gpu:v0.4.0
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-e8af8e5-1257
