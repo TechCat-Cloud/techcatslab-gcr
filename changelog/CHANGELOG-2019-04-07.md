@@ -15,3 +15,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-9347a5f-1113854304109727744
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-17d54a5-1113138919672647681
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+### 2019-04-07 05:10:31 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-aa322c7-6192-e349
