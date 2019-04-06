@@ -18,3 +18,6 @@
 ### 2019-04-07 05:10:31 Update:
 
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-aa322c7-6192-e349
+### 2019-04-07 06:01:14 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180826-1facb6ac
