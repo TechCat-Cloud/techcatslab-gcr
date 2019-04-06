@@ -33,3 +33,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180713-6140bdad
 - gcr.io/kubeflow-images-public/tensor2tensor-github:gpu
 - gcr.io/kubeflow-images-public/tensor2tensor-github:cpu
+### 2019-04-07 07:42:27 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-1869377-1113284040774914049
