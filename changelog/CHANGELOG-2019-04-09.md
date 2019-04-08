@@ -111,3 +111,15 @@
 ### 2019-04-09 05:09:01 Update:
 
 - gcr.io/google-containers/watcher-daemonset:latest
+### 2019-04-09 05:56:17 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-8411c8b-885
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1069
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-74ac37c-1214
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1075
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-667d618-1171
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-910e7ef-1113
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1065
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-76107ff-897
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-9347a5f-1113854304109727744
