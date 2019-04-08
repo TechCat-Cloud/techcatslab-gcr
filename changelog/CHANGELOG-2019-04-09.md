@@ -7,3 +7,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-667d618-1171
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-719abf2-1114407182293536768
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-17d54a5-1113141940997591040
+### 2019-04-09 02:10:07 Update:
+
+- gcr.io/google-appengine/python:2019-04-08-103752
+- gcr.io/google-appengine/python:2019-04-08-103243
