@@ -106,3 +106,6 @@
 - gcr.io/istio-release/citadel:master-20190408-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190408-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190408-09-16
+### 2019-04-08 18:56:09 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-17d54a5-1113141940997591040
