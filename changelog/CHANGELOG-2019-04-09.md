@@ -108,3 +108,6 @@
 ### 2019-04-09 04:56:30 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v-base-797bcb7-1075
+### 2019-04-09 05:09:01 Update:
+
+- gcr.io/google-containers/watcher-daemonset:latest
