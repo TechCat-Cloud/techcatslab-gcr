@@ -131,3 +131,11 @@
 - gcr.io/google-containers/metrics-server-s390x:v0.3.2
 - gcr.io/google-containers/metrics-server-arm:v0.3.2
 - gcr.io/google-containers/metrics-server-ppc64le:v0.3.2
+### 2019-04-10 23:57:57 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-71b5891-1115489405994274816
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-667d618-1171
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.5.0
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-52cbb4c-1258
