@@ -138,3 +138,9 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-719abf2-1114407182293536768
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854304109727744
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-17d54a5-1113141940997591040
+### 2019-04-11 23:33:34 Update:
+
+- gcr.io/google-appengine/api-proxy:flex_sidecars.20190411_RC00
+- gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190411_RC00
+- gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190411_RC00
+- gcr.io/google-appengine/api-verifier:flex_sidecars.20190411_RC00
