@@ -34,3 +34,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v-base-17d54a5-1113141940997591040
 - gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v-base-17d54a5-1113138919672647681
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854304109727744
+### 2019-04-12 11:40:02 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-97b94c0-1202
