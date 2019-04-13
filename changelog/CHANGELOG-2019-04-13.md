@@ -151,3 +151,14 @@
 - gcr.io/istio-release/app:master-20190413-09-16
 - gcr.io/istio-release/app:release-1.0-20190413-09-16
 - gcr.io/istio-release/app:release-1.1-20190413-09-16
+### 2019-04-13 20:32:33 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180609-07630550
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180604-0da89b8a
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180603-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180604-ad57a0f9
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180607-476e150e
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180608-cc3566da
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180605-1e8093e8
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180606-d90ffcca
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180601-2464851a
