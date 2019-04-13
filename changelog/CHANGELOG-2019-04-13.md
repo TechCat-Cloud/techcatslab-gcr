@@ -73,3 +73,6 @@
 ### 2019-04-13 10:02:28 Update:
 
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-41a650b-8673-1512
+### 2019-04-13 12:45:04 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-17d54a5-1113138919672647681
