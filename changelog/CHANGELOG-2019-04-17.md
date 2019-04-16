@@ -31,3 +31,21 @@
 - gcr.io/kubeflow-images-public/tensorflow-notebook-cpu:v20180301-1958-pr328-0bc73dc-a43d
 - gcr.io/kubeflow-images-public/tensorflow-notebook-cpu:v20180301-1847-pr326-9a1aec1-543d
 - gcr.io/kubeflow-images-public/tensorflow-notebook-cpu:v20180301-1855-pr327-03f7362-ba1c
+### 2019-04-17 06:07:19 Update:
+
+- gcr.io/google-containers/kube-proxy-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-arm64:v1.15.0-alpha.1
