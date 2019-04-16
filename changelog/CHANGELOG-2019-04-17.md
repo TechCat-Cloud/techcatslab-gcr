@@ -56,3 +56,32 @@
 - gcr.io/google-appengine/aspnetcore:2.1-2019-04-16_15_16
 - gcr.io/google-appengine/aspnetcore:1.0-2019-04-16_15_16
 - gcr.io/google-appengine/aspnetcore:1.1-2019-04-16_15_16
+### 2019-04-17 07:02:31 Update:
+
+- gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/gcp-controller-manager:001b7220e200840c7daa1f1dde673a868009e5b5
+- gcr.io/google-containers/conformance-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver:v1.15.0-alpha.1
