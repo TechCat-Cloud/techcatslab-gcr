@@ -49,3 +49,10 @@
 - gcr.io/google-containers/hyperkube-amd64:v1.15.0-alpha.1
 - gcr.io/google-containers/conformance-amd64:v1.15.0-alpha.1
 - gcr.io/google-containers/conformance-arm64:v1.15.0-alpha.1
+### 2019-04-17 06:58:38 Update:
+
+- gcr.io/google-appengine/aspnetcore:2.0-2019-04-16_15_16
+- gcr.io/google-appengine/aspnetcore:2.2-2019-04-16_15_16
+- gcr.io/google-appengine/aspnetcore:2.1-2019-04-16_15_16
+- gcr.io/google-appengine/aspnetcore:1.0-2019-04-16_15_16
+- gcr.io/google-appengine/aspnetcore:1.1-2019-04-16_15_16
