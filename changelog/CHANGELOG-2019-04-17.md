@@ -11,3 +11,6 @@
 
 - gcr.io/google-appengine/nodejs:2019-04-16-181239
 - gcr.io/google-appengine/python:2019-04-16-173249
+### 2019-04-17 03:10:35 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-cpu:v0.5.0
