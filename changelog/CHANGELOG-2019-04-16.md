@@ -25,3 +25,6 @@
 ### 2019-04-16 05:04:05 Update:
 
 - gcr.io/google-appengine/jetty:2019-04-15-201033
+### 2019-04-16 09:14:17 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-e8af8e5-1257
