@@ -93,3 +93,9 @@
 - gcr.io/istio-release/pilot:master-20190416-09-16
 - gcr.io/istio-release/pilot:release-1.0-20190416-09-16
 - gcr.io/istio-release/pilot:release-1.1-20190416-09-16
+### 2019-04-16 19:22:08 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-797bcb7-1065
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-4fbdb02-1080
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-797bcb7-1067
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-76107ff-897
