@@ -85,3 +85,6 @@
 - gcr.io/google-containers/kube-apiserver-s390x:v1.15.0-alpha.1
 - gcr.io/google-containers/kube-apiserver-arm64:v1.15.0-alpha.1
 - gcr.io/google-containers/kube-apiserver:v1.15.0-alpha.1
+### 2019-04-17 12:12:35 Update:
+
+- gcr.io/google-containers/kube-cross:v1.12.4-1
