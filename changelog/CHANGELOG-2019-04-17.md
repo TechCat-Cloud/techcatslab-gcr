@@ -112,3 +112,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180711-e7e16c4a
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180703-8fdf3652
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180824-70284dc9
+### 2019-04-17 17:24:49 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.3.1
