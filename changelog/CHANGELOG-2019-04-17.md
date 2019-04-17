@@ -88,3 +88,6 @@
 ### 2019-04-17 12:12:35 Update:
 
 - gcr.io/google-containers/kube-cross:v1.12.4-1
+### 2019-04-17 13:58:28 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-52cbb4c-1258
