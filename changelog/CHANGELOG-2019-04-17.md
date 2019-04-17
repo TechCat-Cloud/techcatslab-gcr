@@ -115,3 +115,6 @@
 ### 2019-04-17 17:24:49 Update:
 
 - gcr.io/google-containers/managed-certificate-controller:v0.3.1
+### 2019-04-17 18:12:11 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-gpu:v-base-71b5891-1115489405994274816
