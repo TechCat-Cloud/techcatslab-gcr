@@ -29,3 +29,20 @@
 - gcr.io/google-appengine/php56:2019-04-18-11-55
 - gcr.io/google-appengine/php72:2019-04-18-11-55
 - gcr.io/google-appengine/php:2019-04-18-11-55
+### 2019-04-19 05:21:55 Update:
+
+- gcr.io/istio-release/test_policybackend:k8s-update
+- gcr.io/istio-release/mixer:k8s-update
+- gcr.io/istio-release/kubectl:k8s-update
+- gcr.io/istio-release/pilot:k8s-update
+- gcr.io/istio-release/mixer_codegen:k8s-update
+- gcr.io/istio-release/proxyv2:k8s-update
+- gcr.io/istio-release/node-agent-k8s:k8s-update
+- gcr.io/istio-release/app:k8s-update
+- gcr.io/istio-release/proxytproxy:k8s-update
+- gcr.io/istio-release/proxy_init:k8s-update
+- gcr.io/istio-release/sidecar_injector:k8s-update
+- gcr.io/istio-release/galley:k8s-update
+- gcr.io/istio-release/servicegraph:k8s-update
+- gcr.io/istio-release/citadel:k8s-update
+- gcr.io/istio-release/proxy_debug:k8s-update
