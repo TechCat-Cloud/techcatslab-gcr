@@ -21,3 +21,11 @@
 - gcr.io/istio-release/pilot:fix-allow-any-https-master
 - gcr.io/istio-release/proxy_init:fix-allow-any-https-master
 - gcr.io/istio-release/proxy_debug:fix-allow-any-https-master
+### 2019-04-19 03:31:07 Update:
+
+- gcr.io/google-appengine/php-base:2019-04-18-11-55
+- gcr.io/google-appengine/php71:2019-04-18-11-55
+- gcr.io/google-appengine/php70:2019-04-18-11-55
+- gcr.io/google-appengine/php56:2019-04-18-11-55
+- gcr.io/google-appengine/php72:2019-04-18-11-55
+- gcr.io/google-appengine/php:2019-04-18-11-55
