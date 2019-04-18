@@ -46,3 +46,17 @@
 - gcr.io/istio-release/servicegraph:k8s-update
 - gcr.io/istio-release/citadel:k8s-update
 - gcr.io/istio-release/proxy_debug:k8s-update
+### 2019-04-19 06:06:43 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180720-3d099b9a
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180723-471de67f
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180706-0725-pr1136-fce4
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180715-794eea62
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180721-471de67f
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180712-a730ddf0
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-17d54a5-1113138919672647681
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-01519e7-1109
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180713-7ccca0ab
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180718-b6a70416
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180717-6f246896
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-0524257-1200
