@@ -120,3 +120,6 @@
 - gcr.io/istio-release/app:release-1.0-20190418-09-16
 - gcr.io/istio-release/app:master-20190418-09-16
 - gcr.io/istio-release/app:release-1.1-20190418-09-16
+### 2019-04-18 19:35:06 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-gpu:v0.4.0
