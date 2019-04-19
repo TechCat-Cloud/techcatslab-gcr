@@ -140,3 +140,16 @@
 - gcr.io/istio-release/test_policybackend:master-20190419-09-16
 - gcr.io/istio-release/test_policybackend:release-1.0-20190419-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190419-09-16
+### 2019-04-19 20:40:24 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180710-bf1c2f0a
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180706-0725-pr1136-fce4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180706-1602-a50c2fb0
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180707-50be548c
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180704-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180705-1045-pr1131-HEAD-1824
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180705-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180707-5a11c84d
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180710-c756adda
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180703-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180630-6c2c69b2
