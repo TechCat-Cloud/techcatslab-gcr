@@ -20,3 +20,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-d1ee37b-955
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b9014c7-857
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-c022af0-1049
+### 2019-04-20 05:34:22 Update:
+
+- gcr.io/google-appengine/jetty:2019-04-19-211417
+- gcr.io/google-appengine/openjdk:8-2019-04-19-210644
