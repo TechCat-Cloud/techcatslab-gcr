@@ -74,3 +74,15 @@
 ### 2019-04-20 14:49:13 Update:
 
 - gcr.io/kubeflow-images-public/admission-webhook:v20190419-v0-47-g08da905d-e3b0c4
+### 2019-04-20 17:22:08 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180627-27539c57
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180619-c79194b3
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180705-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180703-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180626-91048ad4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180629-445de31c
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180630-6c2c69b2
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180704-8fdf3652
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180705-1045-pr1131-HEAD-1824
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180628-5c189642
