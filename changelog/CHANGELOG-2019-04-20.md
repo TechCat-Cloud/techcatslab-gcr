@@ -139,3 +139,7 @@
 - gcr.io/istio-release/mixer_debug:release-1.0-20190420-09-16
 - gcr.io/istio-release/install-cni:master-20190420-09-16
 - gcr.io/istio-release/citadel-test:release-1.0-20190420-09-16
+### 2019-04-20 19:03:40 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-01519e7-1109
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-17d54a5-1113141940997591040
