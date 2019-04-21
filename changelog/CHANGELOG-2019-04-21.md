@@ -26,3 +26,6 @@
 ### 2019-04-21 08:36:55 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-59f3af03
+### 2019-04-21 09:37:36 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:cdb3d28
