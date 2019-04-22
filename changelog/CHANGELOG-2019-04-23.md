@@ -20,3 +20,6 @@
 ### 2019-04-23 03:15:51 Update:
 
 - gcr.io/google-appengine/openjdk:8-2019-04-22-184559
+### 2019-04-23 03:17:05 Update:
+
+- gcr.io/google-containers/cos-kernel-headers:20190422-R00-00
