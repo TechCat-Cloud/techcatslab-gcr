@@ -29,3 +29,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-0524257-1200
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180529-a8646db1
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180819-6899f628
+### 2019-04-23 07:39:46 Update:
+
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
