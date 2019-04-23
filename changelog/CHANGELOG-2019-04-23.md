@@ -124,3 +124,7 @@
 - gcr.io/istio-release/test_policybackend:master-20190423-09-16
 - gcr.io/istio-release/test_policybackend:release-1.0-20190423-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190423-09-16
+### 2019-04-23 20:26:27 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180914-54dc9852
