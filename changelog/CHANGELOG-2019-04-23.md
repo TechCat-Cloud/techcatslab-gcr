@@ -32,3 +32,16 @@
 ### 2019-04-23 07:39:46 Update:
 
 - gcr.io/google-containers/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
+### 2019-04-23 09:17:30 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180706-0725-pr1136-fce4
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-a5ca137-1298
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-b9541fd-1116048517748494336
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-e8af8e5-1257
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-41ee6604
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180710-bf1c2f0a
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v0.5.0
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180709-5a11c84d
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180710-c756adda
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-a1ec7314
