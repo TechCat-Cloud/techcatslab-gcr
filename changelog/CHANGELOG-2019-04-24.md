@@ -180,3 +180,7 @@
 - gcr.io/istio-release/proxy_debug:master-20190424-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190424-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190424-09-16
+### 2019-04-24 21:47:47 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-b9541fd-1116048517748494336
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-1869377-1113284040774914049
