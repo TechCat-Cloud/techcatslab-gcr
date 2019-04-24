@@ -119,3 +119,16 @@
 ### 2019-04-24 12:33:36 Update:
 
 - gcr.io/google-appengine/jetty:2019-04-24-034114
+### 2019-04-24 17:33:56 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1065
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-76107ff-897
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180706-1602-a50c2fb0
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180707-5a11c84d
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-97b94c0-1202
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-9625cde-1115864644263612425
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-9347a5f-1113854681987158021
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180710-c756adda
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1075
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-910e7ef-1113
