@@ -113,3 +113,6 @@
 ### 2019-04-24 11:39:17 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.3.0
+### 2019-04-24 12:29:54 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190423-v0-58-g414c9435-dirty-e3b0c4
