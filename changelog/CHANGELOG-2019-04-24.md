@@ -110,3 +110,6 @@
 - gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-g11fb1ef4-dirty-8b3efe
 - gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-ga71cdd2e-dirty-31d092
 - gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-g11fb1ef4-dirty-e3b0c4
+### 2019-04-24 11:39:17 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v0.3.0
