@@ -24,3 +24,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180712-a730ddf0
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180713-6140bdad
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180722-471de67f
+### 2019-04-24 08:20:07 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:39f31955a8a548d44adb228a543d7d45ad1799e0
