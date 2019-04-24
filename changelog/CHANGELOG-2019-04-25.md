@@ -26,3 +26,6 @@
 ### 2019-04-25 02:12:13 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-a25790d-1229
+### 2019-04-25 03:02:45 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190424-v0.4.0-rc.1-339-g1ebdddf7-dirty-181c59
