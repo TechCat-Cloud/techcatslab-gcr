@@ -73,3 +73,12 @@
 - gcr.io/google-containers/k8s-dns-sidecar-arm64:1.15.2
 - gcr.io/google-containers/k8s-dns-sidecar-s390x:1.15.2
 - gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.15.2
+### 2019-04-25 06:25:22 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:iframe-communication-2
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-97b94c0-1202
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-797bcb7-1075
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-9625cde-1115864644263612425
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-74ac37c-1214
