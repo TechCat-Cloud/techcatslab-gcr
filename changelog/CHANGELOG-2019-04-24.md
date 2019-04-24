@@ -116,3 +116,6 @@
 ### 2019-04-24 12:29:54 Update:
 
 - gcr.io/kubeflow-images-public/notebook-controller:v20190423-v0-58-g414c9435-dirty-e3b0c4
+### 2019-04-24 12:33:36 Update:
+
+- gcr.io/google-appengine/jetty:2019-04-24-034114
