@@ -23,3 +23,6 @@
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:da65b6481504e3e014060cd8d7e08764c79ba586
 - gcr.io/google-containers/ubuntu-nvidia-driver-installer:da65b6481504e3e014060cd8d7e08764c79ba586
+### 2019-04-25 02:12:13 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-a25790d-1229
