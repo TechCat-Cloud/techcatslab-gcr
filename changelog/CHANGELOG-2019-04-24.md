@@ -101,3 +101,12 @@
 - gcr.io/google-containers/kube-apiserver:v1.12.9-beta.0
 - gcr.io/google-containers/hyperkube-arm64:v1.12.8
 - gcr.io/google-containers/hyperkube-arm64:v1.12.9-beta.0
+### 2019-04-24 09:58:13 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-ga71cdd2e-dirty-5bf8cc
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-g11fb1ef4-dirty-9a99ea
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-ga2edc2e2
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-ga71cdd2e-dirty-6cafe0
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-g11fb1ef4-dirty-8b3efe
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-ga71cdd2e-dirty-31d092
+- gcr.io/kubeflow-images-public/centraldashboard:v20190423-v0.4.0-rc.1-378-g11fb1ef4-dirty-e3b0c4
