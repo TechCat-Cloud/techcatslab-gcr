@@ -47,3 +47,7 @@
 - gcr.io/google-containers/fluentd-gcp-scaler:0.4
 - gcr.io/google-containers/fluentd-gcp-scaler:0.5.1
 - gcr.io/google-containers/fluentd-gcp-scaler:0.5.2
+### 2019-04-26 03:33:15 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:iframe-communication-1556200846
+- gcr.io/kubeflow-images-public/centraldashboard:iframe-communication-1556201841
