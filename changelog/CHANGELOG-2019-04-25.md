@@ -167,3 +167,6 @@
 - gcr.io/istio-release/mixer:release-1.1-20190425-09-16
 - gcr.io/istio-release/proxy_init:release-1.0-20190425-09-16
 - gcr.io/istio-release/proxy_init:release-1.1-20190425-09-16
+### 2019-04-25 19:28:18 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.12.5
