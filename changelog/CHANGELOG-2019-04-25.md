@@ -115,3 +115,7 @@
 ### 2019-04-25 18:34:44 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-719abf2-1114407182293536768
+### 2019-04-25 18:37:54 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.13.4
+- gcr.io/google-containers/cluster-autoscaler:v1.14.2
