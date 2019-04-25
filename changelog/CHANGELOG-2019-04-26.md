@@ -51,3 +51,15 @@
 
 - gcr.io/kubeflow-images-public/centraldashboard:iframe-communication-1556200846
 - gcr.io/kubeflow-images-public/centraldashboard:iframe-communication-1556201841
+### 2019-04-26 04:23:50 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:iframe-communication-1556202483
+- gcr.io/kubeflow-images-public/jupyter-web-app:iframe-communication-1556201841
+- gcr.io/kubeflow-images-public/metadata:latest
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-a276fea-1121488657383952384
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-gpu:v-base-48d0152-1081
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/notebook-controller:v20190425-v0-63-ge2e60afa-dirty-34ee06
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854681987158021
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.5.0
