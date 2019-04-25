@@ -170,3 +170,14 @@
 ### 2019-04-25 19:28:18 Update:
 
 - gcr.io/google-containers/cluster-autoscaler:v1.12.5
+### 2019-04-25 20:15:52 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-ef0e0a4-7284-3225
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180718-b6a70416
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180712-a730ddf0
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-74ac37c-1214
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-52cbb4c-1258
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-1869377-1113284040774914049
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180721-471de67f
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-17d54a5-1113141940997591040
