@@ -32,3 +32,7 @@
 ### 2019-04-27 07:18:22 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854681987158021
+### 2019-04-27 07:21:12 Update:
+
+- gcr.io/google-containers/gke-metadata-server:3456fb366cb331e1fa77d3f3db821c564db3e178
+- gcr.io/google-containers/gke-metadata-server:v0.2.4
