@@ -109,3 +109,6 @@
 - gcr.io/kubeflow-images-public/metadata:v0.1.0
 - gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v0.5.0
 - gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v-base-719abf2-1114407182293536768
+### 2019-04-26 11:30:06 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-3e22dc-1121591459913404416
