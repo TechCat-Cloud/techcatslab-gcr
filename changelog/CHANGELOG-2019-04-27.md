@@ -13,3 +13,7 @@
 ### 2019-04-27 03:35:50 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v-base-1869377-1113284040774914049
+### 2019-04-27 04:36:25 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:notebooks-1556303933
+- gcr.io/kubeflow-images-public/jupyter-web-app:e3097a1
