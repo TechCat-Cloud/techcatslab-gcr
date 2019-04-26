@@ -127,3 +127,8 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-b9541fd-1116048517748494336
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180704-8fdf3652
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180529-a8646db1
+### 2019-04-26 15:57:19 Update:
+
+- gcr.io/google-containers/vpa-updater:0.5.1
+- gcr.io/google-containers/vpa-admission-controller:0.5.1
+- gcr.io/google-containers/vpa-recommender:0.5.1
