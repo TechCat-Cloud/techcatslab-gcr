@@ -88,3 +88,7 @@
 - gcr.io/istio-release/sidecar_injector:master-20190427-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190427-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.1-20190427-09-16
+### 2019-04-27 19:17:40 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-719abf2-1114407182293536768
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v0.5.0
