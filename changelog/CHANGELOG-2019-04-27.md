@@ -36,3 +36,7 @@
 
 - gcr.io/google-containers/gke-metadata-server:3456fb366cb331e1fa77d3f3db821c564db3e178
 - gcr.io/google-containers/gke-metadata-server:v0.2.4
+### 2019-04-27 12:22:10 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:d160945
+- gcr.io/kubeflow-images-public/jupyter-web-app:deef73b
