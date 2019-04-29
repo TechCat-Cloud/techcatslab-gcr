@@ -71,3 +71,7 @@
 ### 2019-04-29 21:00:21 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-gpu:v20180707-a1886984
+### 2019-04-29 23:33:11 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:iframe-communication-1556548946
+- gcr.io/kubeflow-images-public/centraldashboard:v20190429-v0.4.0-rc.1-392-gd4ee1391-dirty-78ed61
