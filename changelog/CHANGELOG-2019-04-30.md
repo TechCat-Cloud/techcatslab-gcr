@@ -17,3 +17,9 @@
 ### 2019-04-30 02:15:48 Update:
 
 - gcr.io/kubeflow-images-public/centraldashboard:v20190429-v0.4.0-rc.1-379-g52a5bd33
+### 2019-04-30 03:06:39 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190429-v0-69-gca579247-dirty-29a0f5
+- gcr.io/kubeflow-images-public/notebook-controller:v20190429-v0-69-gca579247-dirty-a5e1b6
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-47e5d0e-9584-737d
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v-base-76107ff-897
