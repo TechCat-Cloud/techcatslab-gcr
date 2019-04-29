@@ -77,3 +77,7 @@
 - gcr.io/google-containers/kube-scheduler-arm:v1.15.0-alpha.2
 - gcr.io/google-containers/kube-scheduler-arm64:v1.15.0-alpha.2
 - gcr.io/google-containers/kube-scheduler-s390x:v1.15.0-alpha.2
+### 2019-04-30 06:49:06 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-2a92ca1-1121928672001921024
