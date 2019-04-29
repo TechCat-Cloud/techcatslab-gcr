@@ -14,3 +14,6 @@
 
 - gcr.io/google-appengine/jetty9-compat:release-20190429
 - gcr.io/google-appengine/jetty9-compat:cve-2019-10241
+### 2019-04-30 02:15:48 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190429-v0.4.0-rc.1-379-g52a5bd33
