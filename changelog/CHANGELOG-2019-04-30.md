@@ -26,3 +26,11 @@
 ### 2019-04-30 03:19:37 Update:
 
 - gcr.io/google-appengine/openjdk:8-2019-04-29-183854
+### 2019-04-30 03:21:13 Update:
+
+- gcr.io/google-containers/kube-proxy-amd64:v1.15.0-alpha.2
+- gcr.io/google-containers/cloud-controller-manager-amd64:v1.15.0-alpha.2
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.15.0-alpha.2
+- gcr.io/google-containers/kube-apiserver-amd64:v1.15.0-alpha.2
+- gcr.io/google-containers/hyperkube-amd64:v1.15.0-alpha.2
+- gcr.io/google-containers/conformance-amd64:v1.15.0-alpha.2
