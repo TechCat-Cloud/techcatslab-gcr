@@ -23,3 +23,6 @@
 - gcr.io/kubeflow-images-public/notebook-controller:v20190429-v0-69-gca579247-dirty-a5e1b6
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-47e5d0e-9584-737d
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v-base-76107ff-897
+### 2019-04-30 03:19:37 Update:
+
+- gcr.io/google-appengine/openjdk:8-2019-04-29-183854
