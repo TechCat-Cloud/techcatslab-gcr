@@ -10,3 +10,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-b1ed075-1121
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-b9541fd-1116048517748494336
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-97b94c0-1202
+### 2019-04-30 01:28:08 Update:
+
+- gcr.io/google-appengine/jetty9-compat:release-20190429
+- gcr.io/google-appengine/jetty9-compat:cve-2019-10241
