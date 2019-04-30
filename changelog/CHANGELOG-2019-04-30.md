@@ -84,3 +84,6 @@
 ### 2019-04-30 07:42:49 Update:
 
 - gcr.io/google-containers/coredns:1.5.0
+### 2019-04-30 08:30:13 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-edbeed-1122977311101030400
