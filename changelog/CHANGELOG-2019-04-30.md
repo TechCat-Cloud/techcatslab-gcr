@@ -94,3 +94,6 @@
 ### 2019-04-30 16:16:08 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-gpu:v0.4.0
+### 2019-04-30 17:57:35 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-2e50e7-1123117238207909892
