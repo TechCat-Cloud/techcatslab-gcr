@@ -20,3 +20,17 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180918-faea44af
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180909-ea09d949
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180914-54dc9852
+### 2019-05-01 04:21:31 Update:
+
+- gcr.io/google-containers/kube-addon-manager-amd64:v9.0.1
+- gcr.io/google-containers/kube-addon-manager:v9.0.1
+- gcr.io/google-containers/kube-addon-manager-amd64:v8.9.1
+- gcr.io/google-containers/kube-addon-manager:v8.9.1
+- gcr.io/google-containers/kube-addon-manager-arm:v9.0.1
+- gcr.io/google-containers/kube-addon-manager-arm:v8.9.1
+- gcr.io/google-containers/kube-addon-manager-s390x:v9.0.1
+- gcr.io/google-containers/kube-addon-manager-arm64:v9.0.1
+- gcr.io/google-containers/kube-addon-manager-arm64:v8.9.1
+- gcr.io/google-containers/kube-addon-manager-s390x:v8.9.1
+- gcr.io/google-containers/kube-addon-manager-ppc64le:v9.0.1
+- gcr.io/google-containers/kube-addon-manager-ppc64le:v8.9.1
