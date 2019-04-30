@@ -103,3 +103,7 @@
 ### 2019-04-30 22:21:38 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-74ac37c-1214
+### 2019-04-30 23:12:32 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:2e50e7d
+- gcr.io/kubeflow-images-public/centraldashboard:v20190430-v0.4.0-rc.1-388-g3512dd2d-dirty-35f70d
