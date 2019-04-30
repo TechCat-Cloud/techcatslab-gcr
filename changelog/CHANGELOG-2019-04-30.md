@@ -87,3 +87,7 @@
 ### 2019-04-30 08:30:13 Update:
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-edbeed-1122977311101030400
+### 2019-04-30 15:25:30 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:edbeedb
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-gpu:v-base-1c46aec-891
