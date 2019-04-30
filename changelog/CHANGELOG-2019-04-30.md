@@ -91,3 +91,6 @@
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:edbeedb
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-gpu:v-base-1c46aec-891
+### 2019-04-30 16:16:08 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-gpu:v0.4.0
