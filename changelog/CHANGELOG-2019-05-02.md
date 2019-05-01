@@ -12,3 +12,9 @@
 ### 2019-05-02 02:50:40 Update:
 
 - gcr.io/google-containers/gke-node-termination-handler:224006134340feec6367344de3b09f1871eda27c
+### 2019-05-02 03:38:01 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190501-v0.4.0-rc.1-399-ge2a4958c
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-1869377-1113284040774914049
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-2a92ca1-1121928672001921024
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180827-defc2354
