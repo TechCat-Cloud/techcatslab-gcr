@@ -9,3 +9,6 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180712-a730ddf0
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180713-7ccca0ab
+### 2019-05-02 02:50:40 Update:
+
+- gcr.io/google-containers/gke-node-termination-handler:224006134340feec6367344de3b09f1871eda27c
