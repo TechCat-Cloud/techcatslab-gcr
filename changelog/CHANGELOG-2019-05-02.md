@@ -112,3 +112,7 @@
 - gcr.io/kubeflow-images-public/centraldashboard:v20190501-v0.4.0-rc.1-396-g8e6c6cd3-dirty-07bcaf
 - gcr.io/kubeflow-images-public/centraldashboard:v20190501-v0.4.0-rc.1-396-g8e6c6cd3-dirty-31f7d0
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-e8af8e5-1257
+### 2019-05-02 05:42:31 Update:
+
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.2.1
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.3.0
