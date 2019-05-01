@@ -130,3 +130,13 @@
 - gcr.io/istio-release/proxyv2:release-1.1-20190501-09-16
 - gcr.io/istio-release/test_policybackend:release-1.0-20190501-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190501-09-16
+### 2019-05-01 23:23:35 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.2.0
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-e8af8e5-1257
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-74ac37c-1214
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v0.5.0
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-a276fea-1121488657383952384
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-9625cde-1115864644263612425
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-a5ca137-1298
