@@ -104,3 +104,6 @@
 - gcr.io/google-containers/hyperkube:v1.11.10
 - gcr.io/google-containers/hyperkube-ppc64le:v1.11.10
 - gcr.io/google-containers/hyperkube-arm:v1.11.10
+### 2019-05-02 04:38:48 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-01519e7-1109
