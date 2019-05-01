@@ -44,3 +44,7 @@
 ### 2019-05-01 09:34:51 Update:
 
 - gcr.io/google-appengine/jetty:9.4-2019-05-01_00_49
+### 2019-05-01 11:12:58 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180604-ad57a0f9
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180607-476e150e
