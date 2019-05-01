@@ -116,3 +116,9 @@
 
 - gcr.io/google-containers/ip-masq-agent-amd64:v2.2.1
 - gcr.io/google-containers/ip-masq-agent-amd64:v2.3.0
+### 2019-05-02 06:34:55 Update:
+
+- gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.6.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.6.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.6.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.6.0
