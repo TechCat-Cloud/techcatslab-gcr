@@ -122,3 +122,6 @@
 - gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.6.0
 - gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.6.0
 - gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.6.0
+### 2019-05-02 07:20:38 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-17d54a5-1113138919672647681
