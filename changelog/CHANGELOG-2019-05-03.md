@@ -37,3 +37,7 @@
 
 - gcr.io/google-appengine/python:2019-05-02-193250
 - gcr.io/google-appengine/python:2019-05-02-185559
+### 2019-05-03 03:53:29 Update:
+
+- gcr.io/google-containers/metrics-server:v0.3.3
+- gcr.io/google-containers/metrics-server-amd64:v0.3.3
