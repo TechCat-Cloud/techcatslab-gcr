@@ -41,3 +41,11 @@
 
 - gcr.io/google-containers/metrics-server:v0.3.3
 - gcr.io/google-containers/metrics-server-amd64:v0.3.3
+### 2019-05-03 04:43:42 Update:
+
+- gcr.io/google-appengine/php-base:2019-05-02-12-33
+- gcr.io/google-appengine/php56:2019-05-02-12-33
+- gcr.io/google-appengine/php:2019-05-02-12-33
+- gcr.io/google-appengine/php72:2019-05-02-12-33
+- gcr.io/google-appengine/php71:2019-05-02-12-33
+- gcr.io/google-appengine/php70:2019-05-02-12-33
