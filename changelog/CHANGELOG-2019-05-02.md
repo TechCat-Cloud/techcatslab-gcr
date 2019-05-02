@@ -207,3 +207,6 @@
 - gcr.io/istio-release/galley:release-1.1-20190502-09-16
 - gcr.io/istio-release/node-agent-test:release-1.0-20190502-09-16
 - gcr.io/istio-release/app:master-20190502-09-16
+### 2019-05-02 19:20:13 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v20180704-8fdf3652
