@@ -17,3 +17,7 @@
 ### 2019-05-03 02:12:37 Update:
 
 - gcr.io/google-appengine/python:2019-05-02-175510
+### 2019-05-03 03:00:18 Update:
+
+- gcr.io/google-containers/metadata-proxy:v0.1.12
+- gcr.io/google-containers/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e
