@@ -14,3 +14,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180721-471de67f
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v0.5.0
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180712-a730ddf0
+### 2019-05-03 02:12:37 Update:
+
+- gcr.io/google-appengine/python:2019-05-02-175510
