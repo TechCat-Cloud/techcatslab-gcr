@@ -129,3 +129,15 @@
 
 - gcr.io/google-containers/gke-node-termination-handler:224006134340feec6367344de3b09f1871eda27c
 - gcr.io/google-containers/gke-node-termination-handler:2e9dc492e2285465846c6bd11fa00c60d8f5709b
+### 2019-05-02 11:33:35 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-1869377-1113284040774914049
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180801-13390dc4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180602-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180604-0da89b8a
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180607-0d9be5e4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180603-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180530-569fc9f7
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180601-4b529ea9
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180601-2464851a
