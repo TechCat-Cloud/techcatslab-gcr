@@ -125,3 +125,7 @@
 ### 2019-05-02 07:20:38 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-17d54a5-1113138919672647681
+### 2019-05-02 10:45:52 Update:
+
+- gcr.io/google-containers/gke-node-termination-handler:224006134340feec6367344de3b09f1871eda27c
+- gcr.io/google-containers/gke-node-termination-handler:2e9dc492e2285465846c6bd11fa00c60d8f5709b
