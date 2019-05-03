@@ -56,3 +56,6 @@
 ### 2019-05-03 07:20:24 Update:
 
 - gcr.io/kubeflow-images-public/admission-webhook:v20190502-v0-86-ga2d60d7e-dirty-968505
+### 2019-05-03 09:01:27 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-97b94c0-1202
