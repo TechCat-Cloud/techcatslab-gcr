@@ -69,3 +69,6 @@
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:b653133a
 - gcr.io/kubeflow-images-public/notebook-controller:v20190502-v0-86-ga2d60d7e-dirty-b3f81e
+### 2019-05-03 14:17:53 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180918-faea44af
