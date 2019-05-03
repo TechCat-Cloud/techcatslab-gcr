@@ -233,3 +233,8 @@
 - gcr.io/istio-release/proxy_debug:release-1.1-20190117-14-39
 - gcr.io/istio-release/proxy_debug:release-1.1-20190121-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190118-09-15
+### 2019-05-03 18:37:55 Update:
+
+- gcr.io/istio-release/node-agent-test:release-1.0-20190503-09-16
+- gcr.io/istio-release/proxy_debug:release-1.0-20190503-09-16
+- gcr.io/istio-release/proxy_debug:master-20190503-09-16
