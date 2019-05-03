@@ -72,3 +72,6 @@
 ### 2019-05-03 14:17:53 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180918-faea44af
+### 2019-05-03 15:08:42 Update:
+
+- gcr.io/kubeflow-images-public/admission-webhook:v20190502-v0-88-gb5732ba0-dirty-2759ff
