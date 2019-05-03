@@ -19,3 +19,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-71b5891-1115489405994274816
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-52cbb4c-1258
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-1d0758b-1165
+### 2019-05-04 05:03:53 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.2
