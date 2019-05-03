@@ -238,3 +238,6 @@
 - gcr.io/istio-release/node-agent-test:release-1.0-20190503-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190503-09-16
 - gcr.io/istio-release/proxy_debug:master-20190503-09-16
+### 2019-05-03 19:22:32 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-gpu:v20180703-8fdf3652
