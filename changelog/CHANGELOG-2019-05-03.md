@@ -259,3 +259,6 @@
 - gcr.io/istio-release/proxy_init:release-1.1-20190503-09-16
 - gcr.io/istio-release/proxytproxy:release-1.1-20190503-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190503-09-16
+### 2019-05-03 21:58:08 Update:
+
+- gcr.io/google-containers/tiny-glibc-arm:1.0
