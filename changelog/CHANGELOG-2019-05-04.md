@@ -34,3 +34,7 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-b5bfe47-920
 - gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-b9541fd-1116048517748494336
 - gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-97b94c0-1202
+### 2019-05-04 08:44:13 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:3d9c21e
+- gcr.io/kubeflow-images-public/centraldashboard:v20190503-v0.4.0-rc.1-412-gf7d4e34f
