@@ -102,3 +102,15 @@
 - gcr.io/istio-release/test_policybackend:release-1.0-20190504-09-16
 - gcr.io/istio-release/test_policybackend:master-20190504-09-16
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190504-09-16
+### 2019-05-04 19:02:03 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-41ee6604
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180710-c756adda
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-b9541fd-1116048517748494336
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-a276fea-1121488657383952384
+- gcr.io/kubeflow-images-public/tensorflow-2.0.0a0-notebook-gpu:2a92ca1
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180710-bf1c2f0a
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-e7e16c4a
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-e8af8e5-1257
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-a1ec7314
