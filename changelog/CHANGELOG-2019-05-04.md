@@ -38,3 +38,6 @@
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:3d9c21e
 - gcr.io/kubeflow-images-public/centraldashboard:v20190503-v0.4.0-rc.1-412-gf7d4e34f
+### 2019-05-04 08:56:29 Update:
+
+- gcr.io/google-containers/startup-script:v1
