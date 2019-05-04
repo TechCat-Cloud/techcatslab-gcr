@@ -41,3 +41,15 @@
 ### 2019-05-04 08:56:29 Update:
 
 - gcr.io/google-containers/startup-script:v1
+### 2019-05-04 13:06:57 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-1869377-1113284040774914049
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-b9541fd-1116048517748494336
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-gpu:v20180603-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-a276fea-1121488657383952384
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-a5ca137-1298
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-9625cde-1115864644263612425
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-e8af8e5-1257
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-2a92ca1-1121928672001921024
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-9347a5f-1113854681987158021
