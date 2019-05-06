@@ -90,3 +90,7 @@
 ### 2019-05-06 20:52:29 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-gpu:v0.3.0
+### 2019-05-06 21:48:30 Update:
+
+- gcr.io/istio-release/citadel:master-20190506-09-16
+- gcr.io/istio-release/app:master-20190506-09-16
