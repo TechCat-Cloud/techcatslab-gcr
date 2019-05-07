@@ -61,3 +61,7 @@
 - gcr.io/google-containers/hyperkube-ppc64le:v1.15.0-alpha.3
 - gcr.io/google-containers/hyperkube:v1.15.0-alpha.3
 - gcr.io/google-containers/conformance-arm:v1.15.0-alpha.3
+### 2019-05-08 04:49:51 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-1d0758b-1165
