@@ -119,3 +119,6 @@
 - gcr.io/istio-release/sidecar_injector:master-20190507-09-16
 - gcr.io/istio-release/proxyv2:master-20190507-09-16
 - gcr.io/istio-release/proxy_debug:master-20190507-09-16
+### 2019-05-07 21:13:02 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-8411c8b-885
