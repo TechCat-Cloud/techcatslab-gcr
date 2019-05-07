@@ -102,3 +102,20 @@
 - gcr.io/google-containers/kube-state-metrics-arm:v1.6.0
 - gcr.io/google-containers/kube-state-metrics-s390x:v1.6.0
 - gcr.io/google-containers/kube-state-metrics-arm64:v1.6.0
+### 2019-05-07 20:29:34 Update:
+
+- gcr.io/istio-release/citadel:master-20190507-09-16
+- gcr.io/istio-release/install-cni:master-20190507-09-16
+- gcr.io/istio-release/kubectl:master-20190507-09-16
+- gcr.io/istio-release/galley:master-20190507-09-16
+- gcr.io/istio-release/node-agent-k8s:master-20190507-09-16
+- gcr.io/istio-release/app:master-20190507-09-16
+- gcr.io/istio-release/mixer:master-20190507-09-16
+- gcr.io/istio-release/pilot:master-20190507-09-16
+- gcr.io/istio-release/proxy_init:master-20190507-09-16
+- gcr.io/istio-release/proxytproxy:master-20190507-09-16
+- gcr.io/istio-release/mixer_codegen:master-20190507-09-16
+- gcr.io/istio-release/test_policybackend:master-20190507-09-16
+- gcr.io/istio-release/sidecar_injector:master-20190507-09-16
+- gcr.io/istio-release/proxyv2:master-20190507-09-16
+- gcr.io/istio-release/proxy_debug:master-20190507-09-16
