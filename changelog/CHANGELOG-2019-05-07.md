@@ -94,3 +94,11 @@
 - gcr.io/istio-release/proxy_debug:release-1.0-20190507-09-16
 - gcr.io/istio-release/test_policybackend:release-1.1-20190507-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190507-09-16
+### 2019-05-07 19:35:20 Update:
+
+- gcr.io/google-containers/kube-state-metrics:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-ppc64le:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-arm:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-s390x:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-arm64:v1.6.0
