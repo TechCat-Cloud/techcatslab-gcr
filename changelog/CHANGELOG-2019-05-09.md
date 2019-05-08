@@ -84,3 +84,6 @@
 - gcr.io/google-containers/hyperkube-amd64:v1.13.7-beta.0
 - gcr.io/google-containers/hyperkube:v1.13.6
 - gcr.io/google-containers/hyperkube-amd64:v1.13.6
+### 2019-05-09 02:30:13 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:048414a3
