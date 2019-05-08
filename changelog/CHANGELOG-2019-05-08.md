@@ -80,3 +80,6 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-9347a5f-1113854304109727744
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180630-6c2c69b2
+### 2019-05-08 13:40:38 Update:
+
+- gcr.io/google-containers/cpvpa-amd64:v0.7.0
