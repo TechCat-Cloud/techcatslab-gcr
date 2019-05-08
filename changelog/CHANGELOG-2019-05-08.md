@@ -143,3 +143,6 @@
 - gcr.io/istio-release/app:release-1.1-20190508-09-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190508-09-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190508-09-16
+### 2019-05-08 22:15:16 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-b5bfe47-920
