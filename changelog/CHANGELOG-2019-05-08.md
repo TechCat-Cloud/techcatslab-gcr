@@ -120,3 +120,8 @@
 - gcr.io/istio-release/mixer_debug:release-1.0-20190508-09-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190508-09-16
 - gcr.io/istio-release/mixer:release-1.0-20190508-09-16
+### 2019-05-08 18:52:13 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-a276fea-1121488657383952384
+- gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v0.5.0
+- gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-2a92ca1-1121928672001921024
