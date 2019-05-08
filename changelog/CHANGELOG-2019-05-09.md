@@ -87,3 +87,7 @@
 ### 2019-05-09 02:30:13 Update:
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:048414a3
+### 2019-05-09 04:12:01 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:stackdriver-metrics-test
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180630-6c2c69b2
