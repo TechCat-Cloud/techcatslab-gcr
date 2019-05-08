@@ -91,3 +91,8 @@
 
 - gcr.io/kubeflow-images-public/centraldashboard:stackdriver-metrics-test
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v20180630-6c2c69b2
+### 2019-05-09 05:12:23 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180605-d5782561
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180601-f65fd457
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v20180712-a730ddf0
