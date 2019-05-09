@@ -73,3 +73,6 @@
 - gcr.io/istio-release/proxy_init:release-1.1-20190509-14-54
 - gcr.io/istio-release/app:release-1.1-20190509-14-54
 - gcr.io/istio-release/proxy_debug:release-1.1-20190509-14-54
+### 2019-05-10 07:47:56 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b9014c7-857
