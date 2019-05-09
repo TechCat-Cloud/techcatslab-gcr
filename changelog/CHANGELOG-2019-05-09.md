@@ -125,3 +125,6 @@
 - gcr.io/google-containers/etcd-empty-dir-cleanup:3.3.10.1
 - gcr.io/google-containers/etcd:3.3.10-1
 - gcr.io/google-containers/etcd-amd64:3.3.10-1
+### 2019-05-09 11:27:46 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-a25790d-1229
