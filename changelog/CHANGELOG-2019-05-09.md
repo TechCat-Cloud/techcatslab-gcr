@@ -128,3 +128,6 @@
 ### 2019-05-09 11:27:46 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-a25790d-1229
+### 2019-05-09 12:18:24 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190508-v0-105-gfcb98391-e3b0c4
