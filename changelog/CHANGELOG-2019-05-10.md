@@ -42,3 +42,7 @@
 - gcr.io/istio-release/citadel:release-1.1-20190509-12-00
 - gcr.io/istio-release/kubectl:release-1.1-20190509-12-00
 - gcr.io/istio-release/proxy_debug:release-1.1-20190509-12-00
+### 2019-05-10 04:25:26 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-2a92ca1-1121928672001921024
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-719abf2-1114407182293536768
