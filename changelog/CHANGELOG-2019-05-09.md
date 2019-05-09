@@ -171,3 +171,9 @@
 ### 2019-05-09 23:19:52 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-1d0758b-1165
+### 2019-05-09 23:23:56 Update:
+
+- gcr.io/google-appengine/api-proxy:flex_sidecars.20190509_RC00
+- gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190509_RC00
+- gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190509_RC00
+- gcr.io/google-appengine/api-verifier:flex_sidecars.20190509_RC00
