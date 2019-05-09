@@ -107,3 +107,15 @@
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:fcb9839
 - gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-fcb983-1126234591183507456
+### 2019-05-09 08:35:08 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-b1ed075-1121
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-97b94c0-1202
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-9347a5f-1113854681987158021
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-a276fea-1121488657383952384
+- gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-b9541fd-1116048517748494336
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+- gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-d635ca8-1180
+- gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v0.5.0
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-52cbb4c-1258
