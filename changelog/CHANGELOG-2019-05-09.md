@@ -119,3 +119,9 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v-base-d635ca8-1180
 - gcr.io/kubeflow-images-public/tensorflow-1.9.0-notebook-cpu:v0.5.0
 - gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-52cbb4c-1258
+### 2019-05-09 10:41:21 Update:
+
+- gcr.io/google-containers/etcd-version-monitor:0.1.3
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.3.10.1
+- gcr.io/google-containers/etcd:3.3.10-1
+- gcr.io/google-containers/etcd-amd64:3.3.10-1
