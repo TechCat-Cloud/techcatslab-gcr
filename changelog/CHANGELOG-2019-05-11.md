@@ -10,3 +10,6 @@
 ### 2019-05-11 03:37:14 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-76107ff-897
+### 2019-05-11 06:09:14 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:v20190510-v0.4.0-rc.1-433-gbae3565f-dirty-17fabe
