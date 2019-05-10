@@ -13,3 +13,6 @@
 ### 2019-05-11 06:09:14 Update:
 
 - gcr.io/kubeflow-images-public/centraldashboard:v20190510-v0.4.0-rc.1-433-gbae3565f-dirty-17fabe
+### 2019-05-11 07:54:43 Update:
+
+- gcr.io/google-containers/cos-kernel-headers:20190510-R00-00
