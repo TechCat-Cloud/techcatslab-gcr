@@ -89,3 +89,6 @@
 ### 2019-05-10 12:01:33 Update:
 
 - gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-2-ge4ab2de
+### 2019-05-10 17:16:52 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-659d727-8352-34b2
