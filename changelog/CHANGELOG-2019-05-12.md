@@ -85,3 +85,6 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-a276fea-1121488657383952384
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-b9541fd-1116048517748494336
+### 2019-05-12 20:49:57 Update:
+
+- gcr.io/google-containers/event-exporter:v0.2.5
