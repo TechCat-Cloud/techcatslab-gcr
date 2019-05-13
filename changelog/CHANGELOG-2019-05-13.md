@@ -110,3 +110,6 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-a276fea-1121488657383952384
 - gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-cpu:v-base-1869377-1113284040774914049
+### 2019-05-13 19:02:06 Update:
+
+- gcr.io/istio-release/servicegraph:release-1.1-20190513-09-16
