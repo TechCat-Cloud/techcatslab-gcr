@@ -113,3 +113,7 @@
 ### 2019-05-13 19:02:06 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.1-20190513-09-16
+### 2019-05-13 19:47:12 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-17d54a5-1113141940997591040
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-52cbb4c-1258
