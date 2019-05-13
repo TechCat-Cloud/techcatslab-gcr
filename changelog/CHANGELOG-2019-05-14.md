@@ -33,3 +33,6 @@
 ### 2019-05-14 04:19:03 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v0.5.0
+### 2019-05-14 04:23:38 Update:
+
+- gcr.io/google-containers/cpvpa-amd64:v0.7.1
