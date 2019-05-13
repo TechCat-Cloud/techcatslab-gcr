@@ -30,3 +30,6 @@
 - gcr.io/google-containers/ip-masq-agent-arm:v2.4.0
 - gcr.io/google-containers/ip-masq-agent-ppc64le:v2.4.0
 - gcr.io/google-containers/ip-masq-agent-arm64:v2.4.0
+### 2019-05-14 04:19:03 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v0.5.0
