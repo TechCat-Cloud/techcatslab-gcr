@@ -47,3 +47,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-52cbb4c-1258
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-719abf2-1114407182293536768
 - gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v0.5.0
+### 2019-05-13 16:28:18 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.2.11
