@@ -46,3 +46,6 @@
 - gcr.io/google-containers/hyperkube-ppc64le:v1.15.0-beta.0
 - gcr.io/google-containers/kube-controller-manager-arm:v1.15.0-beta.0
 - gcr.io/google-containers/hyperkube:v1.16.0-alpha.0
+### 2019-05-15 03:05:08 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-1869377-1113284040774914049
