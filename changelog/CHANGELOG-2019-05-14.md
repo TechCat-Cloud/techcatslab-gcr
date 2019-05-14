@@ -110,3 +110,8 @@
 - gcr.io/istio-release/proxy_debug:release-1.0-20190514-09-15
 - gcr.io/istio-release/proxy_debug:master-20190514-09-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20190514-09-15
+### 2019-05-14 21:49:34 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:pr3197-20190514
+- gcr.io/kubeflow-images-public/centraldashboard:pr3197-20190514-2
+- gcr.io/kubeflow-images-public/centraldashboard:v20190514-v0.4.0-rc.1-446-g50b4e4dc-dirty-9b2489
