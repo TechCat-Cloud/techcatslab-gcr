@@ -52,3 +52,10 @@
 ### 2019-05-15 07:18:15 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-9347a5f-1113854304109727744
+### 2019-05-15 07:22:05 Update:
+
+- gcr.io/google-containers/ip-masq-agent-arm64:v2.4.1
+- gcr.io/google-containers/ip-masq-agent:v2.4.1
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.4.1
+- gcr.io/google-containers/ip-masq-agent-ppc64le:v2.4.1
+- gcr.io/google-containers/ip-masq-agent-arm:v2.4.1
