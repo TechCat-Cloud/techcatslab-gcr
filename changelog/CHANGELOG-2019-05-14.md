@@ -50,3 +50,8 @@
 ### 2019-05-14 14:02:44 Update:
 
 - gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-6-g4d83490
+### 2019-05-14 14:53:30 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v20180711-a1ec7314
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-a276fea-1121488657383952384
