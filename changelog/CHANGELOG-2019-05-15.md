@@ -167,3 +167,6 @@
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:625e24e
 - gcr.io/kubeflow-images-public/tensorflow-1.12.0-notebook-cpu:v-base-17d54a5-1113141940997591040
+### 2019-05-15 23:23:12 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-625e24-1128653451543187456
