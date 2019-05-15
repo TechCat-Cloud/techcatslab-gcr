@@ -59,3 +59,15 @@
 - gcr.io/google-containers/ip-masq-agent-amd64:v2.4.1
 - gcr.io/google-containers/ip-masq-agent-ppc64le:v2.4.1
 - gcr.io/google-containers/ip-masq-agent-arm:v2.4.1
+### 2019-05-15 08:08:52 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180611-07630550
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180601-4b529ea9
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180601-2464851a
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180603-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180602-b3733835
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180609-3e8f3874
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180604-0da89b8a
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180607-0d9be5e4
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180608-cc3566da
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180607-476e150e
