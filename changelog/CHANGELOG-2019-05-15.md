@@ -98,3 +98,11 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-gpu:v-base-797bcb7-1069
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-a276fea-1121488657383952384
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-cpu:v-base-a25790d-1229
+### 2019-05-15 17:33:20 Update:
+
+- gcr.io/istio-release/citadel:release-1.0-20190515-09-16
+- gcr.io/istio-release/galley:release-1.0-20190515-09-16
+- gcr.io/istio-release/mixer:release-1.0-20190515-09-16
+- gcr.io/istio-release/citadel-test:release-1.0-20190515-09-16
+- gcr.io/istio-release/mixer_debug:release-1.0-20190515-09-16
+- gcr.io/istio-release/app:release-1.0-20190515-09-16
