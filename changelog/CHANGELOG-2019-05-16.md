@@ -90,3 +90,8 @@
 ### 2019-05-16 22:44:58 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-a5ca137-1298
+### 2019-05-16 23:35:58 Update:
+
+- gcr.io/kubeflow-images-public/jupyter-web-app:v-v0.5.0-base-9ba4e8-1129015827429855232
+- gcr.io/kubeflow-images-public/centraldashboard:pr3197-20190516
+- gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-gpu:v-base-8411c8b-885
