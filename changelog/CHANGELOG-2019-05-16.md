@@ -95,3 +95,9 @@
 - gcr.io/kubeflow-images-public/jupyter-web-app:v-v0.5.0-base-9ba4e8-1129015827429855232
 - gcr.io/kubeflow-images-public/centraldashboard:pr3197-20190516
 - gcr.io/kubeflow-images-public/tensorflow-1.11.0-notebook-gpu:v-base-8411c8b-885
+### 2019-05-16 23:40:36 Update:
+
+- gcr.io/google-appengine/api-proxy:flex_sidecars.20190516_RC00
+- gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190516_RC00
+- gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190516_RC00
+- gcr.io/google-appengine/api-verifier:flex_sidecars.20190516_RC00
