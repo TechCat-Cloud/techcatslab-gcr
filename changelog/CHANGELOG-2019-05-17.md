@@ -113,3 +113,6 @@
 ### 2019-05-17 08:03:59 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v-base-74ac37c-1214
+### 2019-05-17 08:11:14 Update:
+
+- gcr.io/google-samples/ml-pipeline-t2ttrain:v1ap
