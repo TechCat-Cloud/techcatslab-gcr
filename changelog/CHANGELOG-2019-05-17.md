@@ -116,3 +116,16 @@
 ### 2019-05-17 08:11:14 Update:
 
 - gcr.io/google-samples/ml-pipeline-t2ttrain:v1ap
+### 2019-05-17 08:54:38 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-17d54a5-1113138919672647681
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180907-3bc78a46
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180908-3bc78a46
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180914-54dc9852
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-71b5891-1115489405994274816
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180909-ea09d949
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180910-ea09d949
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180912-a31dbbf8
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180918-faea44af
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180914-de3c7145
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180910-7317fa67
