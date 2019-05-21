@@ -10,3 +10,6 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-9625cde-1115864644263612425
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-a5ca137-1298
+### 2019-05-21 13:54:52 Update:
+
+- gcr.io/kubeflow-images-public/admission-webhook:v20190520-v0-139-gcee39dbc-dirty-0d8f4c
