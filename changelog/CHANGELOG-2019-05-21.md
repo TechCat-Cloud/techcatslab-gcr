@@ -82,3 +82,8 @@
 - gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-142-g008a3620-dirty-0af648
 - gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-143-g01e54c37-dirty-53b6de
 - gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-142-g008a3620-dirty-a81b7a
+### 2019-05-21 22:10:18 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-2a92ca1-1121928672001921024
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-1d0758b-1165
+- gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-cpu:v-base-17d54a5-1113141940997591040
