@@ -18,3 +18,14 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-71b5891-1115489405994274816
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-9625cde-1115864644263612425
 - gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-a276fea-1121488657383952384
+### 2019-05-21 17:33:11 Update:
+
+- gcr.io/istio-release/node-agent:release-1.0-20190521-09-15
+- gcr.io/istio-release/citadel:release-1.0-20190521-09-15
+- gcr.io/istio-release/mixer:release-1.0-20190521-09-15
+- gcr.io/istio-release/mixer_debug:release-1.0-20190521-09-15
+- gcr.io/istio-release/galley:release-1.0-20190521-09-15
+- gcr.io/istio-release/citadel-test:release-1.0-20190521-09-15
+- gcr.io/istio-release/pilot:release-1.0-20190521-09-15
+- gcr.io/istio-release/node-agent-test:release-1.0-20190521-09-15
+- gcr.io/istio-release/app:release-1.0-20190521-09-15
