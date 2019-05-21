@@ -29,3 +29,6 @@
 - gcr.io/istio-release/pilot:release-1.0-20190521-09-15
 - gcr.io/istio-release/node-agent-test:release-1.0-20190521-09-15
 - gcr.io/istio-release/app:release-1.0-20190521-09-15
+### 2019-05-21 18:17:50 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-cpu:v-base-9347a5f-1113854304109727744
