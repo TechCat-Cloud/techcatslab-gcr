@@ -72,3 +72,13 @@
 - gcr.io/istio-release/install-cni:release-1.1-20190521-09-15
 - gcr.io/istio-release/install-cni:master-20190521-09-15
 - gcr.io/istio-release/app:master-20190521-09-15
+### 2019-05-21 20:09:02 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-139-gcee39dbc-dirty-592cc8
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-141-gb26373bb-e3b0c4
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-135-g54dca69b-dirty-a0343f
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-142-g008a3620-dirty-6a86d4
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-142-g008a3620-dirty-0ef666
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-142-g008a3620-dirty-0af648
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-143-g01e54c37-dirty-53b6de
+- gcr.io/kubeflow-images-public/notebook-controller:v20190520-v0-142-g008a3620-dirty-a81b7a
