@@ -15,3 +15,6 @@
 ### 2019-05-22 09:47:27 Update:
 
 - gcr.io/kubeflow-images-public/jupyter-web-app:v-latest-base-eebcb1-1130901789525151744
+### 2019-05-22 11:38:12 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.5.1-notebook-gpu:v20180804-8078114f
