@@ -32,3 +32,6 @@
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180911-38b7da4c
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180825-106e2672
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180913-982bc22e
+### 2019-05-22 16:11:02 Update:
+
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-10-g1afb045
