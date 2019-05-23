@@ -32,3 +32,6 @@
 ### 2019-05-23 11:03:14 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-0524257-1200
+### 2019-05-23 11:16:18 Update:
+
+- gcr.io/google-containers/cos-kernel-headers:20190522-R00-00
