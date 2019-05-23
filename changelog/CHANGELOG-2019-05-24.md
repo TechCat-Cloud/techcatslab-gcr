@@ -114,3 +114,11 @@
 - gcr.io/istio-release/test_policybackend:locality-sometimes-not-applied
 - gcr.io/istio-release/node-agent-k8s:locality-sometimes-not-applied
 - gcr.io/istio-release/proxytproxy:locality-sometimes-not-applied
+### 2019-05-24 06:04:55 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180613-2cdd735c
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180825-106e2672
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180612-f7a68336
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180712-a730ddf0
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180713-7ccca0ab
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v20180614-f6377404
