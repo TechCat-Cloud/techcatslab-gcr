@@ -99,3 +99,9 @@
 
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v0.5.0
 - gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-e8af8e5-1257
+### 2019-05-23 23:20:53 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-f41a5e5-3104-6ca6
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-63de5cb-5744-acf0
+- gcr.io/kubeflow-images-public/tf_operator:v0.5.1
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-d5d783c-8065-0c09
