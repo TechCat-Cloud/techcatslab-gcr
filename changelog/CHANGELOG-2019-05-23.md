@@ -105,3 +105,9 @@
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-63de5cb-5744-acf0
 - gcr.io/kubeflow-images-public/tf_operator:v0.5.1
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-d5d783c-8065-0c09
+### 2019-05-23 23:24:39 Update:
+
+- gcr.io/google-appengine/api-proxy:flex_sidecars.20190523_RC00
+- gcr.io/google-appengine/memcache-proxy:flex_sidecars.20190523_RC00
+- gcr.io/google-appengine/nginx-proxy:flex_sidecars.20190523_RC00
+- gcr.io/google-appengine/api-verifier:flex_sidecars.20190523_RC00
