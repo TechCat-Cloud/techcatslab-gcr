@@ -105,3 +105,6 @@
 
 - gcr.io/kubeflow-images-public/centraldashboard:charts-1
 - gcr.io/kubeflow-images-public/centraldashboard:charts-2
+### 2019-05-24 04:20:28 Update:
+
+- gcr.io/google-containers/toolbox:20190523-00
