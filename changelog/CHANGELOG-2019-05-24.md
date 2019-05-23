@@ -108,3 +108,9 @@
 ### 2019-05-24 04:20:28 Update:
 
 - gcr.io/google-containers/toolbox:20190523-00
+### 2019-05-24 04:22:35 Update:
+
+- gcr.io/istio-release/mixer_codegen:locality-sometimes-not-applied
+- gcr.io/istio-release/test_policybackend:locality-sometimes-not-applied
+- gcr.io/istio-release/node-agent-k8s:locality-sometimes-not-applied
+- gcr.io/istio-release/proxytproxy:locality-sometimes-not-applied
