@@ -101,3 +101,7 @@
 - gcr.io/istio-release/proxy_debug:master-20190523-09-15e2e_mixer
 - gcr.io/istio-release/proxy_debug:master-20190523-09-15e2e_bookinfo_envoyv2_v1alpha3
 - gcr.io/istio-release/proxy_debug:release-1.2-20190523-17-28
+### 2019-05-24 03:03:13 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:charts-1
+- gcr.io/kubeflow-images-public/centraldashboard:charts-2
