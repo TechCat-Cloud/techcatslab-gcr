@@ -9,3 +9,9 @@
 ### 2019-05-25 05:57:32 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-b9014c7-857
+### 2019-05-25 06:12:35 Update:
+
+- gcr.io/istio-release/citadel:release-1.2-latest-daily
+- gcr.io/istio-release/install-cni:release-1.2-latest-daily
+- gcr.io/istio-release/app:release-1.2-latest-daily
+- gcr.io/istio-release/galley:release-1.2-latest-daily
