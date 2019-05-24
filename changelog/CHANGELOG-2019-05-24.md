@@ -132,3 +132,9 @@
 ### 2019-05-24 09:57:54 Update:
 
 - gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-gpu:v-base-1d0758b-1165
+### 2019-05-24 10:57:14 Update:
+
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-4a46eba-1536-d723
+- gcr.io/kubeflow-images-public/tf_operator:v0.5.2
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-4a46eba-0080-eb20
+- gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-a56fc9b-8032-b2f0
