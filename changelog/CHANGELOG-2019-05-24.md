@@ -138,3 +138,6 @@
 - gcr.io/kubeflow-images-public/tf_operator:v0.5.2
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-4a46eba-0080-eb20
 - gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1-a56fc9b-8032-b2f0
+### 2019-05-24 11:57:48 Update:
+
+- gcr.io/kubeflow-images-public/notebook-controller:v20190523-v0-154-g5a78f54f-e3b0c4
