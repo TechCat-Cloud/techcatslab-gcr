@@ -43,3 +43,6 @@
 - gcr.io/istio-release/install-cni:release-1.2-20190524-22-12
 - gcr.io/istio-release/proxy_debug:release-1.2-latest-daily
 - gcr.io/istio-release/proxy_debug:release-1.2-20190524-22-12
+### 2019-05-25 07:58:33 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:ux-tweaks
