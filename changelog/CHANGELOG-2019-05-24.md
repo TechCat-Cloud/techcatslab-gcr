@@ -208,3 +208,6 @@
 ### 2019-05-24 18:26:54 Update:
 
 - gcr.io/istio-release/test_policybackend:release-1.0-20190524-09-16
+### 2019-05-24 23:26:07 Update:
+
+- gcr.io/kubeflow-images-public/centraldashboard:chart-3
