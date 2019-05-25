@@ -46,3 +46,8 @@
 ### 2019-05-25 07:58:33 Update:
 
 - gcr.io/kubeflow-images-public/centraldashboard:ux-tweaks
+### 2019-05-25 15:30:28 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.0
+- gcr.io/kubernetes-helm/tiller:v2.14.0-rc.1
+- gcr.io/kubernetes-helm/tiller:v2.14.0-rc.2
