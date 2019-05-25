@@ -119,3 +119,6 @@
 - gcr.io/istio-release/test_policybackend:release-1.1-20190525-09-16
 - gcr.io/istio-release/test_policybackend:release-1.2-20190525-09-16
 - gcr.io/istio-release/mixer_debug:release-1.0-20190525-09-16
+### 2019-05-25 18:45:40 Update:
+
+- gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-11-g74bef97
