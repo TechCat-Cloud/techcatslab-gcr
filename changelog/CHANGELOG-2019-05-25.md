@@ -122,3 +122,7 @@
 ### 2019-05-25 18:45:40 Update:
 
 - gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0-11-g74bef97
+### 2019-05-25 20:26:54 Update:
+
+- gcr.io/kubeflow-images-public/tensorflow-1.8.0-notebook-cpu:v-base-9347a5f-1113854304109727744
+- gcr.io/kubeflow-images-public/tensorflow-1.4.1-notebook-cpu:v-base-a5ca137-1298
